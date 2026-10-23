@@ -1,0 +1,81 @@
+﻿logId,timestamp,actionType,performedBy,details
+LOG-2026-00016,1790144143303,INVENTORY_UPDATED,supply.chain.officer,"Inventory balance reconciled for Surgical Gloves at Jaipur District Hospital; closing stock 1057 pairs, ADC 96.07."
+LOG-2026-00012,1790153400151,STOCK_TRANSFER_RECORDED,state.admin,Receipt/dispatch event recorded for Vitamin A Solution at Kishangarh Community Health Centre; quantity verified against transfer note.
+LOG-2026-00071,1790173445149,ALERT_ACKNOWLEDGED,command.center.operator,Operational alert reviewed by duty officer for Kishangarh Community Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00005,1790239163565,INVENTORY_UPDATED,district.pharmacist,"Inventory balance reconciled for Azithromycin 500mg at Lalsot Primary Health Centre; closing stock 213 tablets, ADC 9.70."
+LOG-2026-00019,1790271712897,FACILITY_DATA_UPDATED,supply.chain.officer,Facility master-data and geospatial metadata verified for Lalsot Primary Health Centre.
+LOG-2026-00042,1790305075902,INVENTORY_UPDATED,supply.chain.officer,"Inventory balance reconciled for Zinc Dispersible 20mg at Ramgarh Primary Health Centre; closing stock 209 tablets, ADC 9.50."
+LOG-2026-00026,1790309568977,FACILITY_DATA_UPDATED,state.admin,Facility master-data and geospatial metadata verified for Deoli Community Health Centre.
+LOG-2026-00063,1790311676068,RISK_ASSESSMENT_REFRESHED,command.center.operator,"Risk model refreshed for HIV Screening Test Kit at Jaipur District Hospital; level MEDIUM, score 6.0, 11 day(s) to stockout."
+LOG-2026-00024,1790322619598,FACILITY_DATA_UPDATED,district.pharmacist,Facility master-data and geospatial metadata verified for Sikar District Hospital.
+LOG-2026-00014,1790340408598,RISK_ASSESSMENT_REFRESHED,inventory.clerk,"Risk model refreshed for Surgical Gloves at Chomu Primary Health Centre; level CRITICAL, score 9.2, 2 day(s) to stockout."
+LOG-2026-00055,1790352567815,RISK_ASSESSMENT_REFRESHED,state.admin,"Risk model refreshed for Amoxicillin 500mg at Pushkar Primary Health Centre; level CRITICAL, score 9.2, 2 day(s) to stockout."
+LOG-2026-00031,1790460036251,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Metformin 500mg at Ramgarh Primary Health Centre; closing stock 377 tablets, ADC 34.28."
+LOG-2026-00008,1790467263808,INVENTORY_UPDATED,inventory.clerk,"Inventory balance reconciled for Zinc Dispersible 20mg at Jaipur District Hospital; closing stock 369 tablets, ADC 67.01."
+LOG-2026-00054,1790516333637,FORECAST_REVIEWED,supply.chain.officer,Demand forecast reviewed for Surgical Gloves at Bandikui Community Health Centre; short-horizon demand and confidence bounds checked.
+LOG-2026-00029,1790565447747,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Syringe 5ml at Chomu Primary Health Centre; closing stock 449 units, ADC 20.39."
+LOG-2026-00077,1790565906751,REDISTRIBUTION_APPROVED,district.pharmacist,District approval recorded for a simulated medicine transfer involving Ringer Lactate 500ml and Alwar District Hospital.
+LOG-2026-00068,1790578298594,INVENTORY_UPDATED,inventory.clerk,"Inventory balance reconciled for Urine Pregnancy Test Kit at Malpura Primary Health Centre; closing stock 64 kits, ADC 1.53."
+LOG-2026-00057,1790582479928,RISK_ASSESSMENT_REFRESHED,district.pharmacist,"Risk model refreshed for Chlorhexidine Solution at Sanganer Community Health Centre; level LOW, score 1.5, 29 day(s) to stockout."
+LOG-2026-00027,1790696455373,INVENTORY_UPDATED,facility.manager,"Inventory balance reconciled for Ringer Lactate 500ml at Sikar District Hospital; closing stock 1889 bottles, ADC 125.94."
+LOG-2026-00011,1790704962046,FORECAST_REVIEWED,supply.chain.officer,Demand forecast reviewed for Amoxicillin 500mg at Ramgarh Primary Health Centre; short-horizon demand and confidence bounds checked.
+LOG-2026-00038,1790716472552,INVENTORY_UPDATED,supply.chain.officer,"Inventory balance reconciled for Cefixime 200mg at Lalsot Primary Health Centre; closing stock 412 tablets, ADC 9.82."
+LOG-2026-00046,1790757372355,STOCK_TRANSFER_RECORDED,inventory.clerk,Receipt/dispatch event recorded for HIV Screening Test Kit at Alwar District Hospital; quantity verified against transfer note.
+LOG-2026-00062,1790826461419,REDISTRIBUTION_PROPOSED,district.pharmacist,Inter-facility redistribution recommendation drafted for PPE Kit supporting Ramgarh Primary Health Centre; awaiting district approval.
+LOG-2026-00064,1790840921735,ALERT_ACKNOWLEDGED,district.pharmacist,Operational alert reviewed by duty officer for Deoli Community Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00067,1790875772360,INVENTORY_UPDATED,district.pharmacist,"Inventory balance reconciled for Chlorhexidine Solution at Sikar District Hospital; closing stock 319 bottles, ADC 14.51."
+LOG-2026-00058,1790902689491,ALERT_ACKNOWLEDGED,facility.manager,Operational alert reviewed by duty officer for Alwar District Hospital; follow-up assigned to facility stores team.
+LOG-2026-00051,1790920266817,INVENTORY_UPDATED,facility.manager,"Inventory balance reconciled for Vitamin A Solution at Dausa District Hospital; closing stock 40 bottles, ADC 9.95."
+LOG-2026-00028,1790991872374,REDISTRIBUTION_PROPOSED,supply.chain.officer,Inter-facility redistribution recommendation drafted for Ringer Lactate 500ml supporting Sikar District Hospital; awaiting district approval.
+LOG-2026-00017,1791015915226,REDISTRIBUTION_APPROVED,inventory.clerk,District approval recorded for a simulated medicine transfer involving Iron Folic Acid and Pushkar Primary Health Centre.
+LOG-2026-00045,1791031764969,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for HIV Screening Test Kit at Fatehpur Community Health Centre; closing stock 58 kits, ADC 3.86."
+LOG-2026-00047,1791188945186,REDISTRIBUTION_APPROVED,supply.chain.officer,District approval recorded for a simulated medicine transfer involving Vitamin A Solution and Dausa District Hospital.
+LOG-2026-00040,1791192004665,STOCK_TRANSFER_RECORDED,inventory.clerk,Receipt/dispatch event recorded for Albendazole 400mg at Alwar District Hospital; quantity verified against transfer note.
+LOG-2026-00061,1791232307430,INVENTORY_UPDATED,facility.manager,"Inventory balance reconciled for Iron Folic Acid at Jaipur District Hospital; closing stock 6256 tablets, ADC 284.36."
+LOG-2026-00035,1791264243244,FACILITY_DATA_UPDATED,state.admin,Facility master-data and geospatial metadata verified for Pushkar Primary Health Centre.
+LOG-2026-00066,1791288097839,REDISTRIBUTION_PROPOSED,command.center.operator,Inter-facility redistribution recommendation drafted for Amlodipine 5mg supporting Dausa District Hospital; awaiting district approval.
+LOG-2026-00021,1791312316507,INVENTORY_UPDATED,command.center.operator,"Inventory balance reconciled for Salbutamol Inhaler at Ajmer District Hospital; closing stock 249 inhalers, ADC 22.67."
+LOG-2026-00050,1791324160912,REDISTRIBUTION_PROPOSED,state.admin,Inter-facility redistribution recommendation drafted for Surgical Gloves supporting Deoli Community Health Centre; awaiting district approval.
+LOG-2026-00010,1791333093606,ALERT_ACKNOWLEDGED,command.center.operator,Operational alert reviewed by duty officer for Malpura Primary Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00070,1791413378620,RISK_ASSESSMENT_REFRESHED,command.center.operator,"Risk model refreshed for Salbutamol Inhaler at Fatehpur Community Health Centre; level HIGH, score 7.2, 5 day(s) to stockout."
+LOG-2026-00049,1791453983788,ALERT_ACKNOWLEDGED,state.admin,Operational alert reviewed by duty officer for Kishangarh Community Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00003,1791519238450,FORECAST_REVIEWED,supply.chain.officer,Demand forecast reviewed for Paracetamol 500mg at Malpura Primary Health Centre; short-horizon demand and confidence bounds checked.
+LOG-2026-00004,1791530557335,FORECAST_REVIEWED,state.admin,Demand forecast reviewed for Surgical Mask at Dausa District Hospital; short-horizon demand and confidence bounds checked.
+LOG-2026-00072,1791536020588,ALERT_ACKNOWLEDGED,command.center.operator,Operational alert reviewed by duty officer for Chomu Primary Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00052,1791553185051,FACILITY_DATA_UPDATED,command.center.operator,Facility master-data and geospatial metadata verified for Ramgarh Primary Health Centre.
+LOG-2026-00022,1791616990481,INVENTORY_UPDATED,inventory.clerk,"Inventory balance reconciled for ORS Packets at Sikar District Hospital; closing stock 248 sachets, ADC 61.94."
+LOG-2026-00032,1791620824025,INVENTORY_UPDATED,supply.chain.officer,"Inventory balance reconciled for Amoxicillin 500mg at Fatehpur Community Health Centre; closing stock 1159 capsules, ADC 52.67."
+LOG-2026-00060,1791706405017,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Surgical Gloves at Kishangarh Community Health Centre; closing stock 955 pairs, ADC 43.39."
+LOG-2026-00001,1791706476565,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Albendazole 400mg at Sanganer Community Health Centre; closing stock 80 tablets, ADC 26.65."
+LOG-2026-00015,1791728114719,RISK_ASSESSMENT_REFRESHED,facility.manager,"Risk model refreshed for Albendazole 400mg at Fatehpur Community Health Centre; level LOW, score 1.6, 42 day(s) to stockout."
+LOG-2026-00007,1791753624664,REDISTRIBUTION_APPROVED,command.center.operator,District approval recorded for a simulated medicine transfer involving Vitamin A Solution and Chomu Primary Health Centre.
+LOG-2026-00036,1791753841505,REDISTRIBUTION_PROPOSED,command.center.operator,Inter-facility redistribution recommendation drafted for HIV Screening Test Kit supporting Bandikui Community Health Centre; awaiting district approval.
+LOG-2026-00053,1791756215662,RISK_ASSESSMENT_REFRESHED,inventory.clerk,"Risk model refreshed for Normal Saline 0.9% 500ml at Deoli Community Health Centre; level LOW, score 3.2, 21 day(s) to stockout."
+LOG-2026-00059,1791772206431,REDISTRIBUTION_PROPOSED,state.admin,Inter-facility redistribution recommendation drafted for Rapid Diagnostic Dengue Kit supporting Alwar District Hospital; awaiting district approval.
+LOG-2026-00075,1791784964056,FORECAST_REVIEWED,command.center.operator,Demand forecast reviewed for PPE Kit at Chomu Primary Health Centre; short-horizon demand and confidence bounds checked.
+LOG-2026-00048,1791835507965,ALERT_ACKNOWLEDGED,district.pharmacist,Operational alert reviewed by duty officer for Tonk District Hospital; follow-up assigned to facility stores team.
+LOG-2026-00023,1791866424174,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Ringer Lactate 500ml at Behror Community Health Centre; closing stock 600 bottles, ADC 39.97."
+LOG-2026-00043,1791877510851,REDISTRIBUTION_PROPOSED,facility.manager,Inter-facility redistribution recommendation drafted for Albendazole 400mg supporting Pushkar Primary Health Centre; awaiting district approval.
+LOG-2026-00078,1791955792927,ALERT_ACKNOWLEDGED,district.pharmacist,Operational alert reviewed by duty officer for Ajmer District Hospital; follow-up assigned to facility stores team.
+LOG-2026-00074,1791978286446,REDISTRIBUTION_PROPOSED,command.center.operator,Inter-facility redistribution recommendation drafted for ORS Packets supporting Sikar District Hospital; awaiting district approval.
+LOG-2026-00002,1792003813690,STAFFING_UPDATED,facility.manager,Staff roster counts and staff-to-bed ratio reviewed for Lachhmangarh Primary Health Centre.
+LOG-2026-00033,1792041774104,FORECAST_REVIEWED,inventory.clerk,Demand forecast reviewed for Amoxicillin Pediatric Suspension at Jaipur District Hospital; short-horizon demand and confidence bounds checked.
+LOG-2026-00013,1792063879035,ALERT_ACKNOWLEDGED,supply.chain.officer,Operational alert reviewed by duty officer for Behror Community Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00018,1792100403184,REDISTRIBUTION_PROPOSED,inventory.clerk,Inter-facility redistribution recommendation drafted for Metformin 500mg supporting Jaipur District Hospital; awaiting district approval.
+LOG-2026-00009,1792101732545,ALERT_ACKNOWLEDGED,supply.chain.officer,Operational alert reviewed by duty officer for Sanganer Community Health Centre; follow-up assigned to facility stores team.
+LOG-2026-00073,1792216399026,INVENTORY_UPDATED,facility.manager,"Inventory balance reconciled for Povidone-Iodine 10% at Fatehpur Community Health Centre; closing stock 159 bottles, ADC 3.78."
+LOG-2026-00069,1792262575000,INVENTORY_UPDATED,state.admin,"Inventory balance reconciled for Povidone-Iodine 10% at Pushkar Primary Health Centre; closing stock 69 bottles, ADC 1.65."
+LOG-2026-00041,1792275224247,RISK_ASSESSMENT_REFRESHED,inventory.clerk,"Risk model refreshed for Cefixime 200mg at Kishangarh Community Health Centre; level LOW, score 2.4, 42 day(s) to stockout."
+LOG-2026-00080,1792277907601,REDISTRIBUTION_PROPOSED,command.center.operator,Inter-facility redistribution recommendation drafted for Metformin 500mg supporting Ajmer District Hospital; awaiting district approval.
+LOG-2026-00079,1792280158708,RISK_ASSESSMENT_REFRESHED,district.pharmacist,"Risk model refreshed for Vitamin A Solution at Chomu Primary Health Centre; level HIGH, score 8.2, 5 day(s) to stockout."
+LOG-2026-00044,1792383438821,STOCK_TRANSFER_RECORDED,inventory.clerk,Receipt/dispatch event recorded for PPE Kit at Ramgarh Primary Health Centre; quantity verified against transfer note.
+LOG-2026-00020,1792440473556,INVENTORY_UPDATED,facility.manager,"Inventory balance reconciled for Malaria Rapid Test Kit at Pushkar Primary Health Centre; closing stock 9 kits, ADC 2.24."
+LOG-2026-00034,1792445902737,RISK_ASSESSMENT_REFRESHED,inventory.clerk,"Risk model refreshed for Regular Insulin 100 IU/ml at Chomu Primary Health Centre; level CRITICAL, score 9.6, 2 day(s) to stockout."
+LOG-2026-00006,1792452687415,RISK_ASSESSMENT_REFRESHED,state.admin,"Risk model refreshed for Amoxicillin 500mg at Sanganer Community Health Centre; level CRITICAL, score 9.9, 3 day(s) to stockout."
+LOG-2026-00076,1792498565590,REDISTRIBUTION_APPROVED,inventory.clerk,District approval recorded for a simulated medicine transfer involving Amoxicillin Pediatric Suspension and Tonk District Hospital.
+LOG-2026-00025,1792539240582,FORECAST_REVIEWED,command.center.operator,Demand forecast reviewed for Zinc Dispersible 20mg at Bandikui Community Health Centre; short-horizon demand and confidence bounds checked.
+LOG-2026-00030,1792587500831,STAFFING_UPDATED,command.center.operator,Staff roster counts and staff-to-bed ratio reviewed for Fatehpur Community Health Centre.
+LOG-2026-00065,1792602276181,REDISTRIBUTION_PROPOSED,state.admin,Inter-facility redistribution recommendation drafted for Azithromycin 500mg supporting Malpura Primary Health Centre; awaiting district approval.
+LOG-2026-00039,1792602855662,RISK_ASSESSMENT_REFRESHED,district.pharmacist,"Risk model refreshed for Syringe 5ml at Lalsot Primary Health Centre; level HIGH, score 8.3, 3 day(s) to stockout."
+LOG-2026-00056,1792616842968,RISK_ASSESSMENT_REFRESHED,district.pharmacist,"Risk model refreshed for Ceftriaxone 1g Injection at Kishangarh Community Health Centre; level MEDIUM, score 5.1, 10 day(s) to stockout."
+LOG-2026-00037,1792709116711,RISK_ASSESSMENT_REFRESHED,supply.chain.officer,"Risk model refreshed for Rapid Diagnostic Dengue Kit at Jaipur District Hospital; level LOW, score 1.4, 41 day(s) to stockout."

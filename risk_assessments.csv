@@ -1,0 +1,541 @@
+﻿facilityId,medicineId,riskLevel,riskScore,daysToStockout,reason,updatedAt
+F-001,M-101,LOW,3.3,24,Current stock covers 24.00 days at average consumption of 218.03 capsules/day; monitor demand and lead time (7 days).,1792665503842
+F-001,M-102,LOW,2.7,30,Current stock covers 30.00 days at average consumption of 357.58 tablets/day; monitor demand and lead time (3 days).,1792721783477
+F-001,M-103,LOW,2.0,42,Current stock covers 42.00 days at average consumption of 69.79 sachets/day; monitor demand and lead time (5 days).,1792677180150
+F-001,M-104,LOW,1.6,15,Current stock covers 15.00 days at average consumption of 71.51 tablets/day; monitor demand and lead time (7 days).,1792710457953
+F-001,M-105,MEDIUM,6.0,11,Current stock covers 11.01 days at average consumption of 60.51 tablets/day; monitor demand and lead time (5 days).,1792716656164
+F-001,M-106,HIGH,8.1,5,Coverage is 5.50 days at average consumption of 220.44 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 332 tablets.,1792662527503
+F-001,M-107,LOW,2.4,30,Current stock covers 30.00 days at average consumption of 98.94 tablets/day; monitor demand and lead time (10 days).,1792707406867
+F-001,M-108,LOW,2.7,22,Current stock covers 22.01 days at average consumption of 64.62 tablets/day; monitor demand and lead time (10 days).,1792725625391
+F-001,M-109,LOW,3.7,15,Current stock covers 15.01 days at average consumption of 22.25 inhalers/day; monitor demand and lead time (7 days).,1792694610662
+F-001,M-110,HIGH,8.5,5,Coverage is 5.48 days at average consumption of 11.13 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 17 vials.,1792681404927
+F-001,M-111,MEDIUM,4.9,8,Current stock covers 8.04 days at average consumption of 9.95 ampoules/day; monitor demand and lead time (5 days).,1792713268376
+F-001,M-112,MEDIUM,5.7,8,Current stock covers 8.00 days at average consumption of 69.53 vials/day; monitor demand and lead time (7 days).,1792721221652
+F-001,M-113,HIGH,7.7,5,Coverage is 5.50 days at average consumption of 139.35 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 210 bottles.,1792689957687
+F-001,M-114,CRITICAL,9.2,3,Coverage is 3.00 days at average consumption of 118.87 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 476 bottles.,1792651841762
+F-001,M-115,LOW,1.3,22,Current stock covers 22.00 days at average consumption of 284.36 tablets/day; monitor demand and lead time (10 days).,1792700698354
+F-001,M-116,LOW,2.6,21,Current stock covers 21.99 days at average consumption of 71.34 tablets/day; monitor demand and lead time (14 days).,1792659307900
+F-001,M-117,HIGH,8.7,5,Coverage is 5.51 days at average consumption of 67.01 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 101 tablets.,1792632829786
+F-001,M-118,LOW,3.1,29,Current stock covers 29.97 days at average consumption of 11.91 bottles/day; monitor demand and lead time (10 days).,1792628411510
+F-001,M-119,MEDIUM,4.9,11,Current stock covers 11.00 days at average consumption of 96.07 pairs/day; monitor demand and lead time (5 days).,1792691647184
+F-001,M-120,LOW,3.8,15,Current stock covers 15.00 days at average consumption of 152.39 units/day; monitor demand and lead time (5 days).,1792690660540
+F-001,M-121,MEDIUM,4.2,11,Current stock covers 11.00 days at average consumption of 197.93 units/day; monitor demand and lead time (5 days).,1792678746503
+F-001,M-122,LOW,1.5,41,Current stock covers 41.98 days at average consumption of 19.32 kits/day; monitor demand and lead time (10 days).,1792647454223
+F-001,M-123,MEDIUM,6.0,11,Current stock covers 11.00 days at average consumption of 11.09 kits/day; monitor demand and lead time (14 days).,1792686019777
+F-001,M-124,LOW,2.5,14,Current stock covers 14.98 days at average consumption of 14.42 kits/day; monitor demand and lead time (10 days).,1792642375722
+F-001,M-125,LOW,1.5,30,Current stock covers 30.03 days at average consumption of 17.05 bottles/day; monitor demand and lead time (10 days).,1792702025413
+F-001,M-126,LOW,1.9,14,Current stock covers 14.99 days at average consumption of 27.08 bottles/day; monitor demand and lead time (7 days).,1792701015182
+F-001,M-127,LOW,2.6,42,Current stock covers 42.03 days at average consumption of 9.54 bottles/day; monitor demand and lead time (14 days).,1792696767157
+F-001,M-128,MEDIUM,5.9,11,Current stock covers 11.00 days at average consumption of 53.80 bottles/day; monitor demand and lead time (5 days).,1792628401590
+F-001,M-129,LOW,0.9,30,Current stock covers 30.00 days at average consumption of 15.30 kits/day; monitor demand and lead time (7 days).,1792671545186
+F-001,M-130,LOW,1.4,41,Current stock covers 41.98 days at average consumption of 9.60 kits/day; monitor demand and lead time (7 days).,1792707467993
+F-002,M-101,CRITICAL,9.9,3,Coverage is 3.01 days at average consumption of 64.21 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 257 capsules.,1792707277268
+F-002,M-102,LOW,1.4,30,Current stock covers 30.00 days at average consumption of 122.21 tablets/day; monitor demand and lead time (3 days).,1792711150394
+F-002,M-103,LOW,3.5,42,Current stock covers 42.00 days at average consumption of 25.50 sachets/day; monitor demand and lead time (5 days).,1792688628826
+F-002,M-104,LOW,3.9,15,Current stock covers 15.00 days at average consumption of 31.34 tablets/day; monitor demand and lead time (7 days).,1792682185349
+F-002,M-105,HIGH,7.1,3,Coverage is 3.99 days at average consumption of 19.31 tablets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 59 tablets.,1792673981945
+F-002,M-106,MEDIUM,4.1,8,Current stock covers 8.00 days at average consumption of 69.37 tablets/day; monitor demand and lead time (10 days).,1792723400807
+F-002,M-107,LOW,0.5,41,Current stock covers 41.99 days at average consumption of 41.44 tablets/day; monitor demand and lead time (10 days).,1792654903422
+F-002,M-108,LOW,0.8,14,Current stock covers 14.98 days at average consumption of 23.10 tablets/day; monitor demand and lead time (10 days).,1792632339835
+F-002,M-109,CRITICAL,9.3,3,Coverage is 3.02 days at average consumption of 10.59 inhalers/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 43 inhalers.,1792704000014
+F-002,M-110,MEDIUM,5.7,11,Current stock covers 11.01 days at average consumption of 5.63 vials/day; monitor demand and lead time (5 days).,1792692387801
+F-002,M-111,MEDIUM,4.3,7,Current stock covers 7.94 days at average consumption of 4.28 ampoules/day; monitor demand and lead time (5 days).,1792677949927
+F-002,M-112,CRITICAL,9.6,2,Coverage is 2.02 days at average consumption of 19.82 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 99 vials.,1792672098536
+F-002,M-113,HIGH,7.1,4,Coverage is 4.00 days at average consumption of 47.21 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 142 bottles.,1792714257188
+F-002,M-114,LOW,2.8,42,Current stock covers 42.00 days at average consumption of 56.78 bottles/day; monitor demand and lead time (5 days).,1792720406927
+F-002,M-115,CRITICAL,9.4,2,Coverage is 2.00 days at average consumption of 101.80 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 509 tablets.,1792677183001
+F-002,M-116,CRITICAL,9.0,3,Coverage is 3.00 days at average consumption of 26.65 tablets/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 107 tablets.,1792725976304
+F-002,M-117,HIGH,8.2,3,Coverage is 3.99 days at average consumption of 21.05 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 64 tablets.,1792659045491
+F-002,M-118,LOW,1.5,42,Current stock covers 42.01 days at average consumption of 3.38 bottles/day; monitor demand and lead time (10 days).,1792692539811
+F-002,M-119,LOW,0.8,22,Current stock covers 22.01 days at average consumption of 34.67 pairs/day; monitor demand and lead time (5 days).,1792719987365
+F-002,M-120,LOW,3.4,15,Current stock covers 15.00 days at average consumption of 51.74 units/day; monitor demand and lead time (5 days).,1792681144848
+F-002,M-121,MEDIUM,4.2,8,Current stock covers 8.00 days at average consumption of 84.47 units/day; monitor demand and lead time (5 days).,1792717020650
+F-002,M-122,LOW,1.0,21,Current stock covers 21.96 days at average consumption of 5.10 kits/day; monitor demand and lead time (10 days).,1792720180809
+F-002,M-123,MEDIUM,6.2,11,Current stock covers 11.14 days at average consumption of 3.32 kits/day; monitor demand and lead time (14 days).,1792728577293
+F-002,M-124,MEDIUM,6.7,7,Current stock covers 7.88 days at average consumption of 3.30 kits/day; monitor demand and lead time (10 days).,1792699124895
+F-002,M-125,LOW,1.5,29,Current stock covers 29.98 days at average consumption of 4.57 bottles/day; monitor demand and lead time (10 days).,1792710046292
+F-002,M-126,LOW,2.1,29,Current stock covers 29.95 days at average consumption of 9.75 bottles/day; monitor demand and lead time (7 days).,1792658645848
+F-002,M-127,LOW,3.7,30,Current stock covers 30.03 days at average consumption of 3.23 bottles/day; monitor demand and lead time (14 days).,1792654646211
+F-002,M-128,LOW,1.6,22,Current stock covers 22.02 days at average consumption of 27.39 bottles/day; monitor demand and lead time (5 days).,1792624936228
+F-002,M-129,MEDIUM,4.7,7,Current stock covers 7.89 days at average consumption of 4.31 kits/day; monitor demand and lead time (7 days).,1792640584084
+F-002,M-130,LOW,1.4,22,Current stock covers 22.02 days at average consumption of 3.36 kits/day; monitor demand and lead time (7 days).,1792661447924
+F-003,M-101,CRITICAL,9.8,3,Coverage is 3.00 days at average consumption of 32.98 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 132 capsules.,1792702237654
+F-003,M-102,CRITICAL,9.3,3,Coverage is 3.00 days at average consumption of 62.34 tablets/day; replenishment lead time is 3 days. Estimated 7-day stock gap: 250 tablets.,1792692241983
+F-003,M-103,CRITICAL,9.2,3,Coverage is 3.03 days at average consumption of 12.88 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 52 sachets.,1792678489120
+F-003,M-104,HIGH,8.1,3,Coverage is 3.98 days at average consumption of 10.80 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 33 tablets.,1792716932343
+F-003,M-105,MEDIUM,4.2,8,Current stock covers 8.00 days at average consumption of 10.63 tablets/day; monitor demand and lead time (5 days).,1792704468504
+F-003,M-106,HIGH,8.6,3,Coverage is 3.99 days at average consumption of 32.32 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 98 tablets.,1792657178439
+F-003,M-107,LOW,3.6,41,Current stock covers 41.99 days at average consumption of 14.10 tablets/day; monitor demand and lead time (10 days).,1792661104629
+F-003,M-108,MEDIUM,4.5,10,Current stock covers 10.99 days at average consumption of 11.56 tablets/day; monitor demand and lead time (10 days).,1792652521943
+F-003,M-109,MEDIUM,4.7,7,Current stock covers 7.97 days at average consumption of 4.77 inhalers/day; monitor demand and lead time (7 days).,1792640806075
+F-003,M-110,CRITICAL,9.6,2,Coverage is 2.20 days at average consumption of 2.27 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 11 vials.,1792655960600
+F-003,M-111,HIGH,7.9,4,Coverage is 4.15 days at average consumption of 2.17 ampoules/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 7 ampoules.,1792639701943
+F-003,M-112,CRITICAL,9.4,2,Coverage is 2.99 days at average consumption of 8.03 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 33 vials.,1792663105349
+F-003,M-113,HIGH,8.1,5,Coverage is 5.50 days at average consumption of 19.81 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 30 bottles.,1792654400537
+F-003,M-114,MEDIUM,6.1,10,Current stock covers 10.98 days at average consumption of 19.85 bottles/day; monitor demand and lead time (5 days).,1792662699646
+F-003,M-115,LOW,1.7,22,Current stock covers 22.00 days at average consumption of 35.13 tablets/day; monitor demand and lead time (10 days).,1792635820728
+F-003,M-116,LOW,2.3,22,Current stock covers 22.04 days at average consumption of 10.71 tablets/day; monitor demand and lead time (14 days).,1792720124213
+F-003,M-117,LOW,2.0,22,Current stock covers 22.03 days at average consumption of 11.35 tablets/day; monitor demand and lead time (7 days).,1792626728130
+F-003,M-118,LOW,0.7,42,Current stock covers 42.13 days at average consumption of 1.97 bottles/day; monitor demand and lead time (10 days).,1792703610785
+F-003,M-119,CRITICAL,9.2,2,Coverage is 2.00 days at average consumption of 14.51 pairs/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 73 pairs.,1792723549666
+F-003,M-120,LOW,1.0,22,Current stock covers 22.02 days at average consumption of 20.39 units/day; monitor demand and lead time (5 days).,1792718036932
+F-003,M-121,LOW,3.3,15,Current stock covers 15.00 days at average consumption of 37.74 units/day; monitor demand and lead time (5 days).,1792697294531
+F-003,M-122,MEDIUM,4.4,10,Current stock covers 10.89 days at average consumption of 2.48 kits/day; monitor demand and lead time (10 days).,1792639011725
+F-003,M-123,HIGH,7.5,4,Coverage is 4.17 days at average consumption of 1.44 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 5 kits.,1792695407548
+F-003,M-124,HIGH,7.7,5,Coverage is 5.73 days at average consumption of 1.92 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 3 kits.,1792714534287
+F-003,M-125,HIGH,7.5,4,Coverage is 4.04 days at average consumption of 1.98 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 6 bottles.,1792661103765
+F-003,M-126,LOW,2.2,29,Current stock covers 29.90 days at average consumption of 4.08 bottles/day; monitor demand and lead time (7 days).,1792640759697
+F-003,M-127,HIGH,8.2,5,Coverage is 5.44 days at average consumption of 1.47 bottles/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 3 bottles.,1792681443760
+F-003,M-128,LOW,2.2,21,Current stock covers 21.99 days at average consumption of 11.14 bottles/day; monitor demand and lead time (5 days).,1792693746108
+F-003,M-129,LOW,1.4,29,Current stock covers 29.96 days at average consumption of 2.77 kits/day; monitor demand and lead time (7 days).,1792710978178
+F-003,M-130,HIGH,8.6,4,Coverage is 4.03 days at average consumption of 1.49 kits/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 5 kits.,1792680331435
+F-004,M-101,HIGH,8.1,5,Coverage is 5.50 days at average consumption of 196.17 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 295 capsules.,1792681860814
+F-004,M-102,LOW,3.2,30,Current stock covers 30.00 days at average consumption of 397.45 tablets/day; monitor demand and lead time (3 days).,1792723878531
+F-004,M-103,CRITICAL,9.4,3,Coverage is 3.00 days at average consumption of 80.20 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 321 sachets.,1792678311154
+F-004,M-104,MEDIUM,6.9,8,Current stock covers 8.00 days at average consumption of 73.09 tablets/day; monitor demand and lead time (7 days).,1792650501458
+F-004,M-105,HIGH,7.3,4,Coverage is 4.00 days at average consumption of 53.06 tablets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 160 tablets.,1792684672979
+F-004,M-106,CRITICAL,9.9,3,Coverage is 3.00 days at average consumption of 176.63 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 707 tablets.,1792714192074
+F-004,M-107,CRITICAL,9.5,3,Coverage is 3.00 days at average consumption of 90.25 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 361 tablets.,1792668803955
+F-004,M-108,HIGH,7.4,3,Coverage is 3.99 days at average consumption of 65.60 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 198 tablets.,1792641620170
+F-004,M-109,LOW,1.8,14,Current stock covers 14.99 days at average consumption of 32.89 inhalers/day; monitor demand and lead time (7 days).,1792702724850
+F-004,M-110,MEDIUM,6.5,8,Current stock covers 8.03 days at average consumption of 13.32 vials/day; monitor demand and lead time (5 days).,1792664360202
+F-004,M-111,MEDIUM,4.3,10,Current stock covers 10.99 days at average consumption of 10.74 ampoules/day; monitor demand and lead time (5 days).,1792630474851
+F-004,M-112,HIGH,7.5,4,Coverage is 4.00 days at average consumption of 71.20 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 214 vials.,1792722860434
+F-004,M-113,LOW,3.1,15,Current stock covers 15.00 days at average consumption of 94.85 bottles/day; monitor demand and lead time (5 days).,1792668840554
+F-004,M-114,LOW,1.4,15,Current stock covers 15.00 days at average consumption of 121.01 bottles/day; monitor demand and lead time (5 days).,1792683035169
+F-004,M-115,MEDIUM,6.2,11,Current stock covers 11.00 days at average consumption of 308.54 tablets/day; monitor demand and lead time (10 days).,1792675448432
+F-004,M-116,LOW,0.9,29,Current stock covers 29.99 days at average consumption of 60.68 tablets/day; monitor demand and lead time (14 days).,1792657850205
+F-004,M-117,LOW,3.1,22,Current stock covers 22.01 days at average consumption of 56.25 tablets/day; monitor demand and lead time (7 days).,1792718584990
+F-004,M-118,LOW,1.5,15,Current stock covers 15.02 days at average consumption of 12.58 bottles/day; monitor demand and lead time (10 days).,1792730199028
+F-004,M-119,LOW,2.2,15,Current stock covers 15.00 days at average consumption of 116.81 pairs/day; monitor demand and lead time (5 days).,1792658084078
+F-004,M-120,HIGH,8.0,5,Coverage is 5.50 days at average consumption of 134.21 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 202 units.,1792666323825
+F-004,M-121,LOW,2.4,15,Current stock covers 15.00 days at average consumption of 254.24 units/day; monitor demand and lead time (5 days).,1792681441989
+F-004,M-122,MEDIUM,4.4,11,Current stock covers 11.01 days at average consumption of 20.43 kits/day; monitor demand and lead time (10 days).,1792626207119
+F-004,M-123,MEDIUM,4.8,8,Current stock covers 8.04 days at average consumption of 10.95 kits/day; monitor demand and lead time (14 days).,1792713781735
+F-004,M-124,HIGH,8.3,4,Coverage is 4.05 days at average consumption of 9.64 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 29 kits.,1792634121419
+F-004,M-125,LOW,0.5,22,Current stock covers 22.01 days at average consumption of 15.31 bottles/day; monitor demand and lead time (10 days).,1792650676838
+F-004,M-126,LOW,3.4,29,Current stock covers 29.99 days at average consumption of 35.71 bottles/day; monitor demand and lead time (7 days).,1792672227969
+F-004,M-127,HIGH,8.6,4,Coverage is 4.02 days at average consumption of 9.95 bottles/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 30 bottles.,1792686144592
+F-004,M-128,CRITICAL,9.6,3,Coverage is 3.00 days at average consumption of 79.39 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 318 bottles.,1792638082566
+F-004,M-129,HIGH,8.0,3,Coverage is 3.97 days at average consumption of 14.86 kits/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 46 kits.,1792648882651
+F-004,M-130,LOW,3.1,21,Current stock covers 21.95 days at average consumption of 10.75 kits/day; monitor demand and lead time (7 days).,1792699744728
+F-005,M-101,LOW,3.6,30,Current stock covers 30.00 days at average consumption of 54.07 capsules/day; monitor demand and lead time (7 days).,1792642795088
+F-005,M-102,LOW,1.4,22,Current stock covers 22.00 days at average consumption of 163.94 tablets/day; monitor demand and lead time (3 days).,1792666039203
+F-005,M-103,MEDIUM,6.0,11,Current stock covers 11.01 days at average consumption of 26.51 sachets/day; monitor demand and lead time (5 days).,1792692791053
+F-005,M-104,MEDIUM,4.5,10,Current stock covers 10.98 days at average consumption of 20.13 tablets/day; monitor demand and lead time (7 days).,1792687063846
+F-005,M-105,LOW,1.2,21,Current stock covers 21.98 days at average consumption of 24.11 tablets/day; monitor demand and lead time (5 days).,1792629322335
+F-005,M-106,MEDIUM,5.8,11,Current stock covers 11.01 days at average consumption of 80.32 tablets/day; monitor demand and lead time (10 days).,1792700139491
+F-005,M-107,HIGH,7.9,3,Coverage is 3.99 days at average consumption of 38.06 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 115 tablets.,1792667232600
+F-005,M-108,MEDIUM,5.8,11,Current stock covers 11.00 days at average consumption of 19.73 tablets/day; monitor demand and lead time (10 days).,1792661859266
+F-005,M-109,LOW,3.1,21,Current stock covers 21.97 days at average consumption of 9.33 inhalers/day; monitor demand and lead time (7 days).,1792677628675
+F-005,M-110,MEDIUM,5.8,10,Current stock covers 10.98 days at average consumption of 5.19 vials/day; monitor demand and lead time (5 days).,1792670645088
+F-005,M-111,HIGH,8.8,5,Coverage is 5.36 days at average consumption of 3.36 ampoules/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 6 ampoules.,1792649633483
+F-005,M-112,CRITICAL,9.3,3,Coverage is 3.00 days at average consumption of 18.02 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 73 vials.,1792698391692
+F-005,M-113,MEDIUM,6.1,11,Current stock covers 11.01 days at average consumption of 41.97 bottles/day; monitor demand and lead time (5 days).,1792714294756
+F-005,M-114,MEDIUM,4.3,11,Current stock covers 11.00 days at average consumption of 55.34 bottles/day; monitor demand and lead time (5 days).,1792661897055
+F-005,M-115,MEDIUM,6.6,8,Current stock covers 8.00 days at average consumption of 92.85 tablets/day; monitor demand and lead time (10 days).,1792707404358
+F-005,M-116,LOW,0.8,30,Current stock covers 30.02 days at average consumption of 28.65 tablets/day; monitor demand and lead time (14 days).,1792647763901
+F-005,M-117,LOW,1.5,22,Current stock covers 22.01 days at average consumption of 24.08 tablets/day; monitor demand and lead time (7 days).,1792719601042
+F-005,M-118,LOW,1.3,30,Current stock covers 30.02 days at average consumption of 4.23 bottles/day; monitor demand and lead time (10 days).,1792702610768
+F-005,M-119,HIGH,7.4,5,Coverage is 5.50 days at average consumption of 35.28 pairs/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 53 pairs.,1792721323256
+F-005,M-120,MEDIUM,6.8,8,Current stock covers 8.00 days at average consumption of 58.78 units/day; monitor demand and lead time (5 days).,1792679636738
+F-005,M-121,CRITICAL,9.5,3,Coverage is 3.00 days at average consumption of 91.52 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 366 units.,1792665716099
+F-005,M-122,MEDIUM,6.8,8,Current stock covers 8.01 days at average consumption of 5.99 kits/day; monitor demand and lead time (10 days).,1792666152439
+F-005,M-123,LOW,3.3,29,Current stock covers 29.82 days at average consumption of 2.75 kits/day; monitor demand and lead time (14 days).,1792666897532
+F-005,M-124,HIGH,8.1,4,Coverage is 4.09 days at average consumption of 3.42 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 10 kits.,1792629853121
+F-005,M-125,LOW,1.7,15,Current stock covers 15.01 days at average consumption of 6.53 bottles/day; monitor demand and lead time (10 days).,1792659846187
+F-005,M-126,MEDIUM,6.4,11,Current stock covers 11.00 days at average consumption of 11.09 bottles/day; monitor demand and lead time (7 days).,1792649773107
+F-005,M-127,CRITICAL,9.3,3,Coverage is 3.15 days at average consumption of 2.86 bottles/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 12 bottles.,1792640952566
+F-005,M-128,LOW,0.8,21,Current stock covers 21.98 days at average consumption of 17.74 bottles/day; monitor demand and lead time (5 days).,1792663514276
+F-005,M-129,LOW,0.6,41,Current stock covers 41.97 days at average consumption of 4.67 kits/day; monitor demand and lead time (7 days).,1792712556696
+F-005,M-130,MEDIUM,6.3,10,Current stock covers 10.86 days at average consumption of 3.59 kits/day; monitor demand and lead time (7 days).,1792710329952
+F-006,M-101,CRITICAL,9.2,3,Coverage is 3.28 days at average consumption of 21.94 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 82 capsules.,1792681562188
+F-006,M-102,MEDIUM,6.4,11,Current stock covers 11.00 days at average consumption of 76.91 tablets/day; monitor demand and lead time (3 days).,1792660352676
+F-006,M-103,CRITICAL,9.4,2,Coverage is 2.43 days at average consumption of 11.12 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 51 sachets.,1792713072054
+F-006,M-104,LOW,1.5,41,Current stock covers 41.96 days at average consumption of 9.82 tablets/day; monitor demand and lead time (7 days).,1792682109948
+F-006,M-105,LOW,3.3,21,Current stock covers 21.96 days at average consumption of 9.70 tablets/day; monitor demand and lead time (5 days).,1792640994404
+F-006,M-106,HIGH,8.6,3,Coverage is 3.99 days at average consumption of 32.35 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 98 tablets.,1792657468570
+F-006,M-107,LOW,2.8,29,Current stock covers 29.98 days at average consumption of 18.41 tablets/day; monitor demand and lead time (10 days).,1792725540363
+F-006,M-108,LOW,0.9,14,Current stock covers 14.96 days at average consumption of 11.03 tablets/day; monitor demand and lead time (10 days).,1792681009884
+F-006,M-109,LOW,2.3,14,Current stock covers 14.99 days at average consumption of 4.07 inhalers/day; monitor demand and lead time (7 days).,1792659217984
+F-006,M-110,HIGH,7.5,4,Coverage is 4.04 days at average consumption of 2.23 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 7 vials.,1792681967733
+F-006,M-111,MEDIUM,4.7,7,Current stock covers 7.96 days at average consumption of 2.01 ampoules/day; monitor demand and lead time (5 days).,1792703105587
+F-006,M-112,CRITICAL,9.0,2,Coverage is 2.45 days at average consumption of 8.99 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 41 vials.,1792681223749
+F-006,M-113,LOW,3.7,42,Current stock covers 42.02 days at average consumption of 18.04 bottles/day; monitor demand and lead time (5 days).,1792670020882
+F-006,M-114,CRITICAL,9.8,3,Coverage is 3.02 days at average consumption of 20.50 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 82 bottles.,1792670060684
+F-006,M-115,LOW,2.0,22,Current stock covers 22.00 days at average consumption of 42.13 tablets/day; monitor demand and lead time (10 days).,1792674336156
+F-006,M-116,LOW,1.0,42,Current stock covers 42.02 days at average consumption of 10.59 tablets/day; monitor demand and lead time (14 days).,1792720958959
+F-006,M-117,HIGH,7.9,4,Coverage is 4.02 days at average consumption of 11.20 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 34 tablets.,1792652224368
+F-006,M-118,HIGH,8.5,5,Coverage is 5.58 days at average consumption of 2.15 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 4 bottles.,1792722327340
+F-006,M-119,LOW,1.1,14,Current stock covers 14.99 days at average consumption of 17.95 pairs/day; monitor demand and lead time (5 days).,1792725787446
+F-006,M-120,HIGH,8.3,3,Coverage is 3.98 days at average consumption of 19.59 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 60 units.,1792633989398
+F-006,M-121,CRITICAL,9.6,2,Coverage is 2.00 days at average consumption of 37.96 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 190 units.,1792646420508
+F-006,M-122,LOW,2.3,30,Current stock covers 30.04 days at average consumption of 2.43 kits/day; monitor demand and lead time (10 days).,1792647097025
+F-006,M-123,CRITICAL,10.0,3,Coverage is 3.49 days at average consumption of 1.72 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 7 kits.,1792667994991
+F-006,M-124,LOW,3.9,42,Current stock covers 42.19 days at average consumption of 1.92 kits/day; monitor demand and lead time (10 days).,1792639830122
+F-006,M-125,CRITICAL,9.4,2,Coverage is 2.94 days at average consumption of 2.38 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 10 bottles.,1792628215387
+F-006,M-126,LOW,2.9,21,Current stock covers 21.92 days at average consumption of 5.11 bottles/day; monitor demand and lead time (7 days).,1792690804722
+F-006,M-127,MEDIUM,4.3,11,Current stock covers 11.35 days at average consumption of 1.41 bottles/day; monitor demand and lead time (14 days).,1792714779791
+F-006,M-128,MEDIUM,6.7,8,Current stock covers 8.05 days at average consumption of 7.83 bottles/day; monitor demand and lead time (5 days).,1792635029551
+F-006,M-129,LOW,1.5,29,Current stock covers 29.93 days at average consumption of 2.94 kits/day; monitor demand and lead time (7 days).,1792625624297
+F-006,M-130,LOW,3.7,30,Current stock covers 30.15 days at average consumption of 1.36 kits/day; monitor demand and lead time (7 days).,1792726907670
+F-007,M-101,MEDIUM,5.5,11,Current stock covers 11.00 days at average consumption of 195.66 capsules/day; monitor demand and lead time (7 days).,1792640219297
+F-007,M-102,HIGH,7.3,5,Coverage is 5.50 days at average consumption of 335.31 tablets/day; replenishment lead time is 3 days. Estimated 7-day stock gap: 504 tablets.,1792660236544
+F-007,M-103,LOW,1.9,15,Current stock covers 15.00 days at average consumption of 61.75 sachets/day; monitor demand and lead time (5 days).,1792665963099
+F-007,M-104,HIGH,7.3,4,Coverage is 4.00 days at average consumption of 61.25 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 184 tablets.,1792702606494
+F-007,M-105,HIGH,8.0,5,Coverage is 5.50 days at average consumption of 61.81 tablets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 93 tablets.,1792656206345
+F-007,M-106,MEDIUM,4.1,8,Current stock covers 8.00 days at average consumption of 257.47 tablets/day; monitor demand and lead time (10 days).,1792694078376
+F-007,M-107,HIGH,7.8,5,Coverage is 5.50 days at average consumption of 119.88 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 181 tablets.,1792627916644
+F-007,M-108,MEDIUM,6.7,8,Current stock covers 8.00 days at average consumption of 83.34 tablets/day; monitor demand and lead time (10 days).,1792664309860
+F-007,M-109,MEDIUM,5.4,10,Current stock covers 10.98 days at average consumption of 22.67 inhalers/day; monitor demand and lead time (7 days).,1792709576363
+F-007,M-110,LOW,2.8,22,Current stock covers 22.03 days at average consumption of 11.94 vials/day; monitor demand and lead time (5 days).,1792629150585
+F-007,M-111,MEDIUM,4.7,10,Current stock covers 10.98 days at average consumption of 10.75 ampoules/day; monitor demand and lead time (5 days).,1792695920718
+F-007,M-112,LOW,3.3,22,Current stock covers 22.00 days at average consumption of 63.90 vials/day; monitor demand and lead time (7 days).,1792635249468
+F-007,M-113,LOW,0.5,24,Current stock covers 24.00 days at average consumption of 120.35 bottles/day; monitor demand and lead time (5 days).,1792653078705
+F-007,M-114,LOW,1.4,22,Current stock covers 22.00 days at average consumption of 162.23 bottles/day; monitor demand and lead time (5 days).,1792678964226
+F-007,M-115,LOW,1.4,30,Current stock covers 30.00 days at average consumption of 232.96 tablets/day; monitor demand and lead time (10 days).,1792647983688
+F-007,M-116,HIGH,7.0,5,Coverage is 5.49 days at average consumption of 84.63 tablets/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 128 tablets.,1792710760557
+F-007,M-117,LOW,3.3,14,Current stock covers 14.99 days at average consumption of 76.36 tablets/day; monitor demand and lead time (7 days).,1792722554822
+F-007,M-118,CRITICAL,9.9,3,Coverage is 3.00 days at average consumption of 14.69 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 59 bottles.,1792697369080
+F-007,M-119,LOW,0.7,15,Current stock covers 15.00 days at average consumption of 119.07 pairs/day; monitor demand and lead time (5 days).,1792631339704
+F-007,M-120,CRITICAL,9.7,2,Coverage is 2.00 days at average consumption of 163.10 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 816 units.,1792675753392
+F-007,M-121,HIGH,8.2,4,Coverage is 4.00 days at average consumption of 205.62 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 618 units.,1792653638884
+F-007,M-122,LOW,1.2,21,Current stock covers 21.99 days at average consumption of 15.46 kits/day; monitor demand and lead time (10 days).,1792709927682
+F-007,M-123,LOW,3.2,15,Current stock covers 15.01 days at average consumption of 10.39 kits/day; monitor demand and lead time (14 days).,1792692031159
+F-007,M-124,MEDIUM,4.5,7,Current stock covers 7.99 days at average consumption of 13.02 kits/day; monitor demand and lead time (10 days).,1792660910164
+F-007,M-125,LOW,0.8,42,Current stock covers 42.01 days at average consumption of 14.95 bottles/day; monitor demand and lead time (10 days).,1792687768294
+F-007,M-126,LOW,2.0,14,Current stock covers 14.99 days at average consumption of 26.61 bottles/day; monitor demand and lead time (7 days).,1792658517892
+F-007,M-127,MEDIUM,5.1,11,Current stock covers 11.03 days at average consumption of 10.61 bottles/day; monitor demand and lead time (14 days).,1792710407402
+F-007,M-128,LOW,2.3,30,Current stock covers 30.00 days at average consumption of 64.81 bottles/day; monitor demand and lead time (5 days).,1792711598683
+F-007,M-129,HIGH,7.7,5,Coverage is 5.49 days at average consumption of 17.31 kits/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 27 kits.,1792699471533
+F-007,M-130,LOW,2.6,21,Current stock covers 21.98 days at average consumption of 7.28 kits/day; monitor demand and lead time (7 days).,1792627635521
+F-008,M-101,LOW,3.7,29,Current stock covers 29.99 days at average consumption of 51.15 capsules/day; monitor demand and lead time (7 days).,1792639564334
+F-008,M-102,CRITICAL,9.5,3,Coverage is 3.00 days at average consumption of 133.43 tablets/day; replenishment lead time is 3 days. Estimated 7-day stock gap: 535 tablets.,1792701874103
+F-008,M-103,HIGH,8.9,5,Coverage is 5.51 days at average consumption of 29.97 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 45 sachets.,1792709256254
+F-008,M-104,LOW,2.4,42,Current stock covers 42.02 days at average consumption of 26.18 tablets/day; monitor demand and lead time (7 days).,1792718109134
+F-008,M-105,CRITICAL,9.0,2,Coverage is 2.99 days at average consumption of 18.41 tablets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 74 tablets.,1792649143716
+F-008,M-106,MEDIUM,6.4,11,Current stock covers 11.00 days at average consumption of 56.07 tablets/day; monitor demand and lead time (10 days).,1792676829440
+F-008,M-107,CRITICAL,9.1,3,Coverage is 3.01 days at average consumption of 36.87 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 148 tablets.,1792664996778
+F-008,M-108,MEDIUM,5.3,10,Current stock covers 10.98 days at average consumption of 20.94 tablets/day; monitor demand and lead time (10 days).,1792671970331
+F-008,M-109,LOW,2.8,14,Current stock covers 14.99 days at average consumption of 9.87 inhalers/day; monitor demand and lead time (7 days).,1792722850782
+F-008,M-110,LOW,3.7,22,Current stock covers 22.01 days at average consumption of 4.27 vials/day; monitor demand and lead time (5 days).,1792644107959
+F-008,M-111,LOW,3.2,14,Current stock covers 14.91 days at average consumption of 4.56 ampoules/day; monitor demand and lead time (5 days).,1792653835970
+F-008,M-112,MEDIUM,5.1,10,Current stock covers 10.98 days at average consumption of 24.13 vials/day; monitor demand and lead time (7 days).,1792637589156
+F-008,M-113,LOW,2.8,30,Current stock covers 30.00 days at average consumption of 35.40 bottles/day; monitor demand and lead time (5 days).,1792666917097
+F-008,M-114,LOW,2.4,15,Current stock covers 15.01 days at average consumption of 45.97 bottles/day; monitor demand and lead time (5 days).,1792655506636
+F-008,M-115,LOW,2.1,22,Current stock covers 22.00 days at average consumption of 112.08 tablets/day; monitor demand and lead time (10 days).,1792685662492
+F-008,M-116,MEDIUM,6.1,8,Current stock covers 8.00 days at average consumption of 26.89 tablets/day; monitor demand and lead time (14 days).,1792685088700
+F-008,M-117,CRITICAL,10.0,2,Coverage is 2.99 days at average consumption of 24.07 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 97 tablets.,1792691170808
+F-008,M-118,LOW,2.6,22,Current stock covers 22.00 days at average consumption of 4.91 bottles/day; monitor demand and lead time (10 days).,1792651061709
+F-008,M-119,LOW,1.6,22,Current stock covers 22.01 days at average consumption of 43.39 pairs/day; monitor demand and lead time (5 days).,1792695402027
+F-008,M-120,MEDIUM,5.3,11,Current stock covers 11.01 days at average consumption of 45.34 units/day; monitor demand and lead time (5 days).,1792706165887
+F-008,M-121,HIGH,7.1,5,Coverage is 5.50 days at average consumption of 77.70 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 117 units.,1792704727322
+F-008,M-122,HIGH,7.0,5,Coverage is 5.48 days at average consumption of 5.84 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 9 kits.,1792666912317
+F-008,M-123,LOW,2.5,42,Current stock covers 42.07 days at average consumption of 2.90 kits/day; monitor demand and lead time (14 days).,1792648663923
+F-008,M-124,MEDIUM,6.5,8,Current stock covers 8.05 days at average consumption of 4.10 kits/day; monitor demand and lead time (10 days).,1792722197173
+F-008,M-125,LOW,2.4,22,Current stock covers 22.02 days at average consumption of 5.95 bottles/day; monitor demand and lead time (10 days).,1792708024877
+F-008,M-126,LOW,2.1,42,Current stock covers 42.01 days at average consumption of 12.26 bottles/day; monitor demand and lead time (7 days).,1792709585033
+F-008,M-127,LOW,3.9,29,Current stock covers 29.94 days at average consumption of 3.34 bottles/day; monitor demand and lead time (14 days).,1792677957962
+F-008,M-128,HIGH,7.9,3,Coverage is 3.99 days at average consumption of 27.07 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 82 bottles.,1792636837836
+F-008,M-129,LOW,0.7,22,Current stock covers 22.00 days at average consumption of 6.41 kits/day; monitor demand and lead time (7 days).,1792639841855
+F-008,M-130,MEDIUM,4.2,11,Current stock covers 11.08 days at average consumption of 3.43 kits/day; monitor demand and lead time (7 days).,1792635006970
+F-009,M-101,CRITICAL,9.2,2,Coverage is 2.39 days at average consumption of 23.03 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 107 capsules.,1792719627304
+F-009,M-102,MEDIUM,5.2,8,Current stock covers 8.00 days at average consumption of 70.24 tablets/day; monitor demand and lead time (3 days).,1792664199603
+F-009,M-103,CRITICAL,9.1,1,Coverage is 1.82 days at average consumption of 9.36 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 49 sachets.,1792644368696
+F-009,M-104,LOW,2.0,22,Current stock covers 22.04 days at average consumption of 12.25 tablets/day; monitor demand and lead time (7 days).,1792645306203
+F-009,M-105,LOW,0.6,29,Current stock covers 29.99 days at average consumption of 9.17 tablets/day; monitor demand and lead time (5 days).,1792704331593
+F-009,M-106,LOW,2.6,42,Current stock covers 42.00 days at average consumption of 26.26 tablets/day; monitor demand and lead time (10 days).,1792680222159
+F-009,M-107,LOW,2.4,29,Current stock covers 29.99 days at average consumption of 14.17 tablets/day; monitor demand and lead time (10 days).,1792698749050
+F-009,M-108,LOW,1.5,30,Current stock covers 30.03 days at average consumption of 11.62 tablets/day; monitor demand and lead time (10 days).,1792723338481
+F-009,M-109,LOW,2.8,29,Current stock covers 29.97 days at average consumption of 3.67 inhalers/day; monitor demand and lead time (7 days).,1792626596057
+F-009,M-110,HIGH,7.2,4,Coverage is 4.39 days at average consumption of 2.28 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 6 vials.,1792727013346
+F-009,M-111,LOW,1.1,15,Current stock covers 15.24 days at average consumption of 1.64 ampoules/day; monitor demand and lead time (5 days).,1792656525152
+F-009,M-112,CRITICAL,9.3,3,Coverage is 3.29 days at average consumption of 8.51 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 32 vials.,1792715541701
+F-009,M-113,MEDIUM,4.7,10,Current stock covers 10.98 days at average consumption of 14.85 bottles/day; monitor demand and lead time (5 days).,1792670823807
+F-009,M-114,MEDIUM,5.8,10,Current stock covers 10.98 days at average consumption of 24.95 bottles/day; monitor demand and lead time (5 days).,1792696219115
+F-009,M-115,MEDIUM,5.2,11,Current stock covers 11.01 days at average consumption of 42.07 tablets/day; monitor demand and lead time (10 days).,1792708372751
+F-009,M-116,LOW,2.3,14,Current stock covers 14.97 days at average consumption of 9.42 tablets/day; monitor demand and lead time (14 days).,1792683899921
+F-009,M-117,LOW,1.5,14,Current stock covers 14.94 days at average consumption of 7.63 tablets/day; monitor demand and lead time (7 days).,1792725640695
+F-009,M-118,LOW,2.0,41,Current stock covers 41.82 days at average consumption of 1.65 bottles/day; monitor demand and lead time (10 days).,1792696953881
+F-009,M-119,LOW,1.6,14,Current stock covers 14.98 days at average consumption of 17.02 pairs/day; monitor demand and lead time (5 days).,1792638895517
+F-009,M-120,MEDIUM,5.1,10,Current stock covers 10.98 days at average consumption of 19.21 units/day; monitor demand and lead time (5 days).,1792715924898
+F-009,M-121,LOW,1.3,29,Current stock covers 29.99 days at average consumption of 34.51 units/day; monitor demand and lead time (5 days).,1792661278197
+F-009,M-122,HIGH,8.3,4,Coverage is 4.02 days at average consumption of 2.24 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 7 kits.,1792703950156
+F-009,M-123,CRITICAL,9.2,2,Coverage is 2.94 days at average consumption of 1.36 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 6 kits.,1792642455591
+F-009,M-124,LOW,3.0,41,Current stock covers 41.84 days at average consumption of 1.96 kits/day; monitor demand and lead time (10 days).,1792638577895
+F-009,M-125,MEDIUM,6.4,11,Current stock covers 11.05 days at average consumption of 1.90 bottles/day; monitor demand and lead time (10 days).,1792672376965
+F-009,M-126,HIGH,8.3,4,Coverage is 4.10 days at average consumption of 4.39 bottles/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 13 bottles.,1792726083671
+F-009,M-127,LOW,1.9,15,Current stock covers 15.03 days at average consumption of 1.73 bottles/day; monitor demand and lead time (14 days).,1792657371383
+F-009,M-128,HIGH,7.9,5,Coverage is 5.53 days at average consumption of 10.13 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 15 bottles.,1792699543856
+F-009,M-129,LOW,3.1,14,Current stock covers 14.84 days at average consumption of 2.83 kits/day; monitor demand and lead time (7 days).,1792668371329
+F-009,M-130,LOW,0.6,41,Current stock covers 41.96 days at average consumption of 1.12 kits/day; monitor demand and lead time (7 days).,1792680762921
+F-010,M-101,LOW,1.4,24,Current stock covers 24.00 days at average consumption of 222.60 capsules/day; monitor demand and lead time (7 days).,1792637204537
+F-010,M-102,LOW,1.6,30,Current stock covers 30.00 days at average consumption of 481.22 tablets/day; monitor demand and lead time (3 days).,1792693570425
+F-010,M-103,LOW,1.3,21,Current stock covers 21.99 days at average consumption of 58.56 sachets/day; monitor demand and lead time (5 days).,1792666392164
+F-010,M-104,HIGH,7.5,4,Coverage is 4.00 days at average consumption of 90.66 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 272 tablets.,1792708014448
+F-010,M-105,LOW,1.8,15,Current stock covers 15.00 days at average consumption of 71.89 tablets/day; monitor demand and lead time (5 days).,1792721015690
+F-010,M-106,HIGH,8.9,5,Coverage is 5.50 days at average consumption of 252.99 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 380 tablets.,1792637938079
+F-010,M-107,HIGH,7.6,4,Coverage is 4.00 days at average consumption of 79.44 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 239 tablets.,1792654862371
+F-010,M-108,LOW,2.5,22,Current stock covers 22.00 days at average consumption of 70.63 tablets/day; monitor demand and lead time (10 days).,1792654602196
+F-010,M-109,MEDIUM,6.3,8,Current stock covers 8.00 days at average consumption of 32.49 inhalers/day; monitor demand and lead time (7 days).,1792682029538
+F-010,M-110,LOW,3.6,22,Current stock covers 22.03 days at average consumption of 15.66 vials/day; monitor demand and lead time (5 days).,1792689097923
+F-010,M-111,LOW,1.5,22,Current stock covers 22.03 days at average consumption of 13.57 ampoules/day; monitor demand and lead time (5 days).,1792726018128
+F-010,M-112,HIGH,8.6,5,Coverage is 5.49 days at average consumption of 57.34 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 87 vials.,1792661182078
+F-010,M-113,MEDIUM,5.1,11,Current stock covers 11.00 days at average consumption of 138.00 bottles/day; monitor demand and lead time (5 days).,1792682304345
+F-010,M-114,MEDIUM,4.5,11,Current stock covers 11.00 days at average consumption of 169.65 bottles/day; monitor demand and lead time (5 days).,1792722773051
+F-010,M-115,MEDIUM,5.0,8,Current stock covers 8.00 days at average consumption of 240.39 tablets/day; monitor demand and lead time (10 days).,1792626715703
+F-010,M-116,MEDIUM,4.7,11,Current stock covers 11.00 days at average consumption of 82.94 tablets/day; monitor demand and lead time (14 days).,1792697639449
+F-010,M-117,HIGH,8.5,5,Coverage is 5.50 days at average consumption of 68.78 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 104 tablets.,1792630255066
+F-010,M-118,LOW,1.9,42,Current stock covers 42.04 days at average consumption of 10.11 bottles/day; monitor demand and lead time (10 days).,1792626593844
+F-010,M-119,CRITICAL,9.6,2,Coverage is 2.00 days at average consumption of 96.45 pairs/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 483 pairs.,1792676323673
+F-010,M-120,CRITICAL,9.4,2,Coverage is 2.00 days at average consumption of 130.35 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 652 units.,1792704291123
+F-010,M-121,HIGH,7.2,4,Coverage is 4.00 days at average consumption of 193.16 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 580 units.,1792693734416
+F-010,M-122,MEDIUM,5.3,8,Current stock covers 8.01 days at average consumption of 18.98 kits/day; monitor demand and lead time (10 days).,1792681531718
+F-010,M-123,LOW,2.6,15,Current stock covers 15.04 days at average consumption of 7.91 kits/day; monitor demand and lead time (14 days).,1792673363244
+F-010,M-124,MEDIUM,5.9,7,Current stock covers 7.99 days at average consumption of 13.51 kits/day; monitor demand and lead time (10 days).,1792669708645
+F-010,M-125,LOW,2.3,22,Current stock covers 22.00 days at average consumption of 19.41 bottles/day; monitor demand and lead time (10 days).,1792663624289
+F-010,M-126,MEDIUM,6.6,11,Current stock covers 11.00 days at average consumption of 28.27 bottles/day; monitor demand and lead time (7 days).,1792684298978
+F-010,M-127,MEDIUM,5.2,7,Current stock covers 7.98 days at average consumption of 9.40 bottles/day; monitor demand and lead time (14 days).,1792726945354
+F-010,M-128,HIGH,7.8,5,Coverage is 5.51 days at average consumption of 72.64 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 109 bottles.,1792683922839
+F-010,M-129,LOW,2.1,30,Current stock covers 30.00 days at average consumption of 18.30 kits/day; monitor demand and lead time (7 days).,1792677651092
+F-010,M-130,MEDIUM,5.4,10,Current stock covers 10.97 days at average consumption of 8.93 kits/day; monitor demand and lead time (7 days).,1792631290255
+F-011,M-101,CRITICAL,9.6,3,Coverage is 3.01 days at average consumption of 49.57 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 198 capsules.,1792677813411
+F-011,M-102,MEDIUM,4.7,11,Current stock covers 11.00 days at average consumption of 170.60 tablets/day; monitor demand and lead time (3 days).,1792674293351
+F-011,M-103,CRITICAL,9.7,2,Coverage is 2.02 days at average consumption of 24.77 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 124 sachets.,1792713490677
+F-011,M-104,LOW,1.7,42,Current stock covers 42.00 days at average consumption of 23.19 tablets/day; monitor demand and lead time (7 days).,1792710651750
+F-011,M-105,MEDIUM,5.1,10,Current stock covers 10.99 days at average consumption of 24.39 tablets/day; monitor demand and lead time (5 days).,1792666602755
+F-011,M-106,CRITICAL,9.8,2,Coverage is 2.00 days at average consumption of 65.99 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 330 tablets.,1792644158263
+F-011,M-107,HIGH,7.0,4,Coverage is 4.00 days at average consumption of 36.99 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 111 tablets.,1792637344791
+F-011,M-108,LOW,3.5,22,Current stock covers 22.02 days at average consumption of 19.35 tablets/day; monitor demand and lead time (10 days).,1792628862834
+F-011,M-109,MEDIUM,5.9,11,Current stock covers 11.04 days at average consumption of 9.96 inhalers/day; monitor demand and lead time (7 days).,1792672271476
+F-011,M-110,HIGH,8.1,4,Coverage is 4.10 days at average consumption of 3.90 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 12 vials.,1792703259009
+F-011,M-111,LOW,3.4,14,Current stock covers 14.95 days at average consumption of 3.88 ampoules/day; monitor demand and lead time (5 days).,1792709561022
+F-011,M-112,MEDIUM,6.7,8,Current stock covers 8.00 days at average consumption of 24.11 vials/day; monitor demand and lead time (7 days).,1792710174794
+F-011,M-113,LOW,3.7,15,Current stock covers 15.01 days at average consumption of 49.25 bottles/day; monitor demand and lead time (5 days).,1792709687421
+F-011,M-114,LOW,3.2,21,Current stock covers 21.99 days at average consumption of 50.56 bottles/day; monitor demand and lead time (5 days).,1792668585399
+F-011,M-115,LOW,1.7,15,Current stock covers 15.00 days at average consumption of 83.73 tablets/day; monitor demand and lead time (10 days).,1792679904184
+F-011,M-116,LOW,3.5,22,Current stock covers 22.00 days at average consumption of 20.36 tablets/day; monitor demand and lead time (14 days).,1792715180027
+F-011,M-117,LOW,2.3,30,Current stock covers 30.02 days at average consumption of 17.29 tablets/day; monitor demand and lead time (7 days).,1792685497616
+F-011,M-118,LOW,0.8,41,Current stock covers 41.88 days at average consumption of 4.25 bottles/day; monitor demand and lead time (10 days).,1792683885911
+F-011,M-119,MEDIUM,6.5,11,Current stock covers 11.00 days at average consumption of 32.36 pairs/day; monitor demand and lead time (5 days).,1792647132661
+F-011,M-120,LOW,1.6,41,Current stock covers 41.99 days at average consumption of 43.01 units/day; monitor demand and lead time (5 days).,1792631793597
+F-011,M-121,LOW,1.2,41,Current stock covers 41.99 days at average consumption of 78.94 units/day; monitor demand and lead time (5 days).,1792714501363
+F-011,M-122,LOW,2.2,29,Current stock covers 29.92 days at average consumption of 4.78 kits/day; monitor demand and lead time (10 days).,1792720913457
+F-011,M-123,CRITICAL,9.1,2,Coverage is 2.90 days at average consumption of 4.14 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 17 kits.,1792671973460
+F-011,M-124,LOW,1.3,22,Current stock covers 22.03 days at average consumption of 3.54 kits/day; monitor demand and lead time (10 days).,1792688812416
+F-011,M-125,LOW,2.2,29,Current stock covers 29.99 days at average consumption of 6.67 bottles/day; monitor demand and lead time (10 days).,1792670432084
+F-011,M-126,LOW,1.4,15,Current stock covers 15.00 days at average consumption of 12.00 bottles/day; monitor demand and lead time (7 days).,1792685648976
+F-011,M-127,LOW,0.9,30,Current stock covers 30.10 days at average consumption of 2.89 bottles/day; monitor demand and lead time (14 days).,1792641691883
+F-011,M-128,MEDIUM,6.2,11,Current stock covers 11.01 days at average consumption of 22.62 bottles/day; monitor demand and lead time (5 days).,1792657783819
+F-011,M-129,LOW,1.8,41,Current stock covers 41.96 days at average consumption of 4.29 kits/day; monitor demand and lead time (7 days).,1792716026264
+F-011,M-130,MEDIUM,4.5,8,Current stock covers 8.10 days at average consumption of 2.84 kits/day; monitor demand and lead time (7 days).,1792715132305
+F-012,M-101,CRITICAL,9.0,3,Coverage is 3.29 days at average consumption of 27.39 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 102 capsules.,1792668258489
+F-012,M-102,MEDIUM,4.1,8,Current stock covers 8.00 days at average consumption of 50.97 tablets/day; monitor demand and lead time (3 days).,1792663438190
+F-012,M-103,CRITICAL,9.2,3,Coverage is 3.31 days at average consumption of 11.18 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 42 sachets.,1792636869529
+F-012,M-104,LOW,2.2,42,Current stock covers 42.02 days at average consumption of 11.09 tablets/day; monitor demand and lead time (7 days).,1792701318978
+F-012,M-105,LOW,3.6,15,Current stock covers 15.00 days at average consumption of 8.00 tablets/day; monitor demand and lead time (5 days).,1792673628129
+F-012,M-106,HIGH,8.7,3,Coverage is 3.99 days at average consumption of 32.05 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 97 tablets.,1792671087288
+F-012,M-107,HIGH,8.8,5,Coverage is 5.50 days at average consumption of 14.72 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 23 tablets.,1792678921329
+F-012,M-108,LOW,3.3,29,Current stock covers 29.97 days at average consumption of 9.31 tablets/day; monitor demand and lead time (10 days).,1792703014338
+F-012,M-109,MEDIUM,4.9,8,Current stock covers 8.04 days at average consumption of 3.73 inhalers/day; monitor demand and lead time (7 days).,1792633256738
+F-012,M-110,CRITICAL,10.0,3,Coverage is 3.03 days at average consumption of 1.65 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 7 vials.,1792700764878
+F-012,M-111,MEDIUM,4.8,11,Current stock covers 11.05 days at average consumption of 1.72 ampoules/day; monitor demand and lead time (5 days).,1792672531927
+F-012,M-112,CRITICAL,9.1,3,Coverage is 3.27 days at average consumption of 10.09 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 38 vials.,1792645041161
+F-012,M-113,HIGH,8.8,4,Coverage is 4.00 days at average consumption of 16.77 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 51 bottles.,1792625714726
+F-012,M-114,CRITICAL,9.9,3,Coverage is 3.01 days at average consumption of 18.26 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 73 bottles.,1792701082890
+F-012,M-115,CRITICAL,9.6,2,Coverage is 2.01 days at average consumption of 50.34 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 252 tablets.,1792696334214
+F-012,M-116,HIGH,8.0,5,Coverage is 5.54 days at average consumption of 10.65 tablets/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 16 tablets.,1792725409434
+F-012,M-117,MEDIUM,5.0,11,Current stock covers 11.02 days at average consumption of 10.07 tablets/day; monitor demand and lead time (7 days).,1792675172311
+F-012,M-118,HIGH,8.8,5,Coverage is 5.44 days at average consumption of 1.47 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 3 bottles.,1792720925440
+F-012,M-119,LOW,3.1,22,Current stock covers 22.00 days at average consumption of 20.41 pairs/day; monitor demand and lead time (5 days).,1792720056577
+F-012,M-120,MEDIUM,6.2,8,Current stock covers 8.00 days at average consumption of 21.37 units/day; monitor demand and lead time (5 days).,1792703512135
+F-012,M-121,LOW,0.8,22,Current stock covers 22.01 days at average consumption of 35.07 units/day; monitor demand and lead time (5 days).,1792705385069
+F-012,M-122,HIGH,8.6,5,Coverage is 5.57 days at average consumption of 3.05 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 5 kits.,1792663010139
+F-012,M-123,CRITICAL,9.6,2,Coverage is 2.87 days at average consumption of 1.74 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 8 kits.,1792684287521
+F-012,M-124,LOW,2.6,41,Current stock covers 41.83 days at average consumption of 1.53 kits/day; monitor demand and lead time (10 days).,1792706436842
+F-012,M-125,LOW,3.4,22,Current stock covers 22.03 days at average consumption of 2.95 bottles/day; monitor demand and lead time (10 days).,1792658377796
+F-012,M-126,LOW,2.0,29,Current stock covers 29.95 days at average consumption of 5.51 bottles/day; monitor demand and lead time (7 days).,1792647015260
+F-012,M-127,LOW,2.8,15,Current stock covers 15.07 days at average consumption of 1.46 bottles/day; monitor demand and lead time (14 days).,1792690923272
+F-012,M-128,LOW,2.5,30,Current stock covers 30.00 days at average consumption of 10.00 bottles/day; monitor demand and lead time (5 days).,1792721654751
+F-012,M-129,LOW,2.7,22,Current stock covers 22.10 days at average consumption of 2.67 kits/day; monitor demand and lead time (7 days).,1792683207811
+F-012,M-130,MEDIUM,4.1,7,Current stock covers 7.95 days at average consumption of 1.51 kits/day; monitor demand and lead time (7 days).,1792652683323
+F-013,M-101,CRITICAL,9.7,2,Coverage is 2.00 days at average consumption of 155.13 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 776 capsules.,1792709868070
+F-013,M-102,HIGH,8.9,5,Coverage is 5.50 days at average consumption of 360.47 tablets/day; replenishment lead time is 3 days. Estimated 7-day stock gap: 541 tablets.,1792709448471
+F-013,M-103,HIGH,8.8,4,Coverage is 4.00 days at average consumption of 61.94 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 186 sachets.,1792651346918
+F-013,M-104,MEDIUM,5.2,8,Current stock covers 8.00 days at average consumption of 84.36 tablets/day; monitor demand and lead time (7 days).,1792700006404
+F-013,M-105,LOW,2.0,30,Current stock covers 30.00 days at average consumption of 76.19 tablets/day; monitor demand and lead time (5 days).,1792712105382
+F-013,M-106,MEDIUM,6.0,8,Current stock covers 8.00 days at average consumption of 197.99 tablets/day; monitor demand and lead time (10 days).,1792672309441
+F-013,M-107,LOW,3.2,22,Current stock covers 22.00 days at average consumption of 87.81 tablets/day; monitor demand and lead time (10 days).,1792697868407
+F-013,M-108,MEDIUM,4.2,7,Current stock covers 7.99 days at average consumption of 55.56 tablets/day; monitor demand and lead time (10 days).,1792708942589
+F-013,M-109,LOW,1.9,15,Current stock covers 15.00 days at average consumption of 33.07 inhalers/day; monitor demand and lead time (7 days).,1792628823592
+F-013,M-110,MEDIUM,5.8,10,Current stock covers 10.98 days at average consumption of 15.30 vials/day; monitor demand and lead time (5 days).,1792628833759
+F-013,M-111,HIGH,7.2,4,Coverage is 4.03 days at average consumption of 10.41 ampoules/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 31 ampoules.,1792627299261
+F-013,M-112,LOW,1.3,22,Current stock covers 22.00 days at average consumption of 49.95 vials/day; monitor demand and lead time (7 days).,1792659277516
+F-013,M-113,LOW,3.1,15,Current stock covers 15.00 days at average consumption of 125.94 bottles/day; monitor demand and lead time (5 days).,1792702047232
+F-013,M-114,LOW,3.8,42,Current stock covers 42.00 days at average consumption of 141.24 bottles/day; monitor demand and lead time (5 days).,1792681739030
+F-013,M-115,LOW,1.7,42,Current stock covers 42.00 days at average consumption of 303.76 tablets/day; monitor demand and lead time (10 days).,1792633365643
+F-013,M-116,MEDIUM,6.8,11,Current stock covers 11.00 days at average consumption of 61.45 tablets/day; monitor demand and lead time (14 days).,1792673140023
+F-013,M-117,LOW,1.4,42,Current stock covers 42.00 days at average consumption of 66.91 tablets/day; monitor demand and lead time (7 days).,1792705044279
+F-013,M-118,LOW,0.8,29,Current stock covers 29.96 days at average consumption of 9.78 bottles/day; monitor demand and lead time (10 days).,1792658624527
+F-013,M-119,MEDIUM,6.4,8,Current stock covers 8.00 days at average consumption of 134.06 pairs/day; monitor demand and lead time (5 days).,1792632354066
+F-013,M-120,CRITICAL,9.5,3,Coverage is 3.00 days at average consumption of 167.64 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 671 units.,1792716797139
+F-013,M-121,LOW,0.6,15,Current stock covers 15.00 days at average consumption of 175.86 units/day; monitor demand and lead time (5 days).,1792678294946
+F-013,M-122,CRITICAL,9.9,2,Coverage is 2.98 days at average consumption of 15.10 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 61 kits.,1792701634600
+F-013,M-123,HIGH,8.7,3,Coverage is 3.96 days at average consumption of 9.59 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 30 kits.,1792629278039
+F-013,M-124,CRITICAL,9.3,2,Coverage is 2.04 days at average consumption of 10.27 kits/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 51 kits.,1792677503728
+F-013,M-125,LOW,2.0,21,Current stock covers 21.98 days at average consumption of 14.51 bottles/day; monitor demand and lead time (10 days).,1792642805655
+F-013,M-126,MEDIUM,6.9,7,Current stock covers 7.99 days at average consumption of 31.92 bottles/day; monitor demand and lead time (7 days).,1792691705479
+F-013,M-127,HIGH,8.5,4,Coverage is 4.02 days at average consumption of 8.96 bottles/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 27 bottles.,1792661946336
+F-013,M-128,LOW,2.5,15,Current stock covers 15.00 days at average consumption of 61.62 bottles/day; monitor demand and lead time (5 days).,1792713293018
+F-013,M-129,LOW,1.6,14,Current stock covers 14.98 days at average consumption of 16.36 kits/day; monitor demand and lead time (7 days).,1792711723814
+F-013,M-130,LOW,2.2,15,Current stock covers 15.00 days at average consumption of 8.20 kits/day; monitor demand and lead time (7 days).,1792673904884
+F-014,M-101,LOW,3.3,22,Current stock covers 22.00 days at average consumption of 52.67 capsules/day; monitor demand and lead time (7 days).,1792625418415
+F-014,M-102,MEDIUM,5.8,8,Current stock covers 8.00 days at average consumption of 161.28 tablets/day; monitor demand and lead time (3 days).,1792680427586
+F-014,M-103,LOW,1.1,21,Current stock covers 21.99 days at average consumption of 26.29 sachets/day; monitor demand and lead time (5 days).,1792626957635
+F-014,M-104,MEDIUM,5.9,10,Current stock covers 10.99 days at average consumption of 23.21 tablets/day; monitor demand and lead time (7 days).,1792685728879
+F-014,M-105,LOW,2.0,29,Current stock covers 29.98 days at average consumption of 25.55 tablets/day; monitor demand and lead time (5 days).,1792658304379
+F-014,M-106,LOW,1.2,15,Current stock covers 15.00 days at average consumption of 85.47 tablets/day; monitor demand and lead time (10 days).,1792669045941
+F-014,M-107,MEDIUM,6.3,11,Current stock covers 11.01 days at average consumption of 29.88 tablets/day; monitor demand and lead time (10 days).,1792712564402
+F-014,M-108,LOW,2.6,22,Current stock covers 22.02 days at average consumption of 20.16 tablets/day; monitor demand and lead time (10 days).,1792683860672
+F-014,M-109,HIGH,7.2,5,Coverage is 5.45 days at average consumption of 8.81 inhalers/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 14 inhalers.,1792699993470
+F-014,M-110,LOW,3.3,42,Current stock covers 42.09 days at average consumption of 4.68 vials/day; monitor demand and lead time (5 days).,1792711835238
+F-014,M-111,LOW,1.8,42,Current stock covers 42.03 days at average consumption of 4.33 ampoules/day; monitor demand and lead time (5 days).,1792671842894
+F-014,M-112,HIGH,7.6,4,Coverage is 4.00 days at average consumption of 16.77 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 51 vials.,1792689688682
+F-014,M-113,HIGH,7.9,5,Coverage is 5.50 days at average consumption of 38.90 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 59 bottles.,1792688750660
+F-014,M-114,LOW,1.0,22,Current stock covers 22.01 days at average consumption of 40.80 bottles/day; monitor demand and lead time (5 days).,1792686710793
+F-014,M-115,MEDIUM,5.8,8,Current stock covers 8.00 days at average consumption of 100.08 tablets/day; monitor demand and lead time (10 days).,1792629763639
+F-014,M-116,LOW,1.6,42,Current stock covers 42.02 days at average consumption of 21.18 tablets/day; monitor demand and lead time (14 days).,1792678281684
+F-014,M-117,MEDIUM,6.7,7,Current stock covers 7.98 days at average consumption of 23.18 tablets/day; monitor demand and lead time (7 days).,1792650402035
+F-014,M-118,LOW,3.5,42,Current stock covers 42.06 days at average consumption of 3.78 bottles/day; monitor demand and lead time (10 days).,1792648284369
+F-014,M-119,LOW,2.0,15,Current stock covers 15.00 days at average consumption of 45.21 pairs/day; monitor demand and lead time (5 days).,1792688150283
+F-014,M-120,LOW,1.8,15,Current stock covers 15.00 days at average consumption of 38.06 units/day; monitor demand and lead time (5 days).,1792720343392
+F-014,M-121,LOW,3.5,15,Current stock covers 15.01 days at average consumption of 74.97 units/day; monitor demand and lead time (5 days).,1792626624368
+F-014,M-122,MEDIUM,5.2,8,Current stock covers 8.07 days at average consumption of 5.70 kits/day; monitor demand and lead time (10 days).,1792650132456
+F-014,M-123,LOW,3.3,15,Current stock covers 15.03 days at average consumption of 3.86 kits/day; monitor demand and lead time (14 days).,1792692436451
+F-014,M-124,MEDIUM,4.4,11,Current stock covers 11.05 days at average consumption of 3.44 kits/day; monitor demand and lead time (10 days).,1792629870138
+F-014,M-125,CRITICAL,9.6,3,Coverage is 3.05 days at average consumption of 6.56 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 26 bottles.,1792659096710
+F-014,M-126,LOW,3.1,14,Current stock covers 14.99 days at average consumption of 11.61 bottles/day; monitor demand and lead time (7 days).,1792729866013
+F-014,M-127,LOW,3.7,15,Current stock covers 15.01 days at average consumption of 3.73 bottles/day; monitor demand and lead time (14 days).,1792635657235
+F-014,M-128,LOW,1.6,15,Current stock covers 15.01 days at average consumption of 25.39 bottles/day; monitor demand and lead time (5 days).,1792647213319
+F-014,M-129,LOW,0.9,14,Current stock covers 14.98 days at average consumption of 4.34 kits/day; monitor demand and lead time (7 days).,1792650160164
+F-014,M-130,MEDIUM,5.4,11,Current stock covers 11.05 days at average consumption of 3.62 kits/day; monitor demand and lead time (7 days).,1792662502540
+F-015,M-101,HIGH,7.2,4,Coverage is 4.21 days at average consumption of 24.45 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 69 capsules.,1792692804068
+F-015,M-102,LOW,2.8,22,Current stock covers 22.00 days at average consumption of 69.49 tablets/day; monitor demand and lead time (3 days).,1792715604466
+F-015,M-103,CRITICAL,10.0,1,Coverage is 1.83 days at average consumption of 11.45 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 60 sachets.,1792670357131
+F-015,M-104,LOW,2.3,22,Current stock covers 22.01 days at average consumption of 9.63 tablets/day; monitor demand and lead time (7 days).,1792644505410
+F-015,M-105,LOW,2.3,15,Current stock covers 15.01 days at average consumption of 8.73 tablets/day; monitor demand and lead time (5 days).,1792728817412
+F-015,M-106,MEDIUM,4.0,8,Current stock covers 8.02 days at average consumption of 24.69 tablets/day; monitor demand and lead time (10 days).,1792724123806
+F-015,M-107,LOW,1.5,15,Current stock covers 15.00 days at average consumption of 11.87 tablets/day; monitor demand and lead time (10 days).,1792647172264
+F-015,M-108,CRITICAL,9.7,1,Coverage is 1.97 days at average consumption of 12.16 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 62 tablets.,1792704679412
+F-015,M-109,MEDIUM,4.1,10,Current stock covers 10.96 days at average consumption of 5.02 inhalers/day; monitor demand and lead time (7 days).,1792707818340
+F-015,M-110,CRITICAL,10.0,3,Coverage is 3.16 days at average consumption of 1.90 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 8 vials.,1792672507399
+F-015,M-111,LOW,2.2,14,Current stock covers 14.72 days at average consumption of 1.63 ampoules/day; monitor demand and lead time (5 days).,1792643758838
+F-015,M-112,CRITICAL,9.3,2,Coverage is 2.99 days at average consumption of 10.05 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 41 vials.,1792714649898
+F-015,M-113,MEDIUM,4.0,10,Current stock covers 10.98 days at average consumption of 21.31 bottles/day; monitor demand and lead time (5 days).,1792711728580
+F-015,M-114,CRITICAL,9.9,2,Coverage is 2.02 days at average consumption of 21.82 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 109 bottles.,1792697109125
+F-015,M-115,HIGH,7.0,5,Coverage is 5.49 days at average consumption of 34.41 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 52 tablets.,1792723539731
+F-015,M-116,HIGH,7.8,5,Coverage is 5.46 days at average consumption of 11.53 tablets/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 18 tablets.,1792721273102
+F-015,M-117,LOW,3.3,29,Current stock covers 29.99 days at average consumption of 9.07 tablets/day; monitor demand and lead time (7 days).,1792707835304
+F-015,M-118,LOW,3.3,15,Current stock covers 15.00 days at average consumption of 2.20 bottles/day; monitor demand and lead time (10 days).,1792692660010
+F-015,M-119,LOW,3.1,15,Current stock covers 15.02 days at average consumption of 18.18 pairs/day; monitor demand and lead time (5 days).,1792692422019
+F-015,M-120,LOW,2.2,29,Current stock covers 29.99 days at average consumption of 21.01 units/day; monitor demand and lead time (5 days).,1792632450202
+F-015,M-121,CRITICAL,9.2,3,Coverage is 3.00 days at average consumption of 34.71 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 139 units.,1792717604154
+F-015,M-122,LOW,0.8,15,Current stock covers 15.15 days at average consumption of 2.31 kits/day; monitor demand and lead time (10 days).,1792715566340
+F-015,M-123,CRITICAL,9.1,1,Coverage is 1.68 days at average consumption of 1.79 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 10 kits.,1792714714634
+F-015,M-124,LOW,1.3,14,Current stock covers 14.93 days at average consumption of 2.21 kits/day; monitor demand and lead time (10 days).,1792634065226
+F-015,M-125,HIGH,8.7,4,Coverage is 4.07 days at average consumption of 2.70 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 8 bottles.,1792719756375
+F-015,M-126,LOW,0.6,30,Current stock covers 30.00 days at average consumption of 4.00 bottles/day; monitor demand and lead time (7 days).,1792629926166
+F-015,M-127,LOW,2.4,22,Current stock covers 22.02 days at average consumption of 1.68 bottles/day; monitor demand and lead time (14 days).,1792688044526
+F-015,M-128,LOW,0.5,21,Current stock covers 21.96 days at average consumption of 10.11 bottles/day; monitor demand and lead time (5 days).,1792679550814
+F-015,M-129,LOW,2.7,22,Current stock covers 22.11 days at average consumption of 2.94 kits/day; monitor demand and lead time (7 days).,1792648944086
+F-015,M-130,MEDIUM,6.8,11,Current stock covers 11.38 days at average consumption of 1.23 kits/day; monitor demand and lead time (7 days).,1792680148689
+F-016,M-101,LOW,2.2,30,Current stock covers 30.00 days at average consumption of 209.27 capsules/day; monitor demand and lead time (7 days).,1792641330688
+F-016,M-102,MEDIUM,4.5,11,Current stock covers 11.00 days at average consumption of 429.81 tablets/day; monitor demand and lead time (3 days).,1792666525460
+F-016,M-103,LOW,3.6,41,Current stock covers 41.99 days at average consumption of 65.25 sachets/day; monitor demand and lead time (5 days).,1792662569067
+F-016,M-104,HIGH,8.8,5,Coverage is 5.50 days at average consumption of 86.23 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 130 tablets.,1792660085481
+F-016,M-105,CRITICAL,9.5,2,Coverage is 2.01 days at average consumption of 66.76 tablets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 334 tablets.,1792724638038
+F-016,M-106,LOW,0.8,42,Current stock covers 42.00 days at average consumption of 192.82 tablets/day; monitor demand and lead time (10 days).,1792709229875
+F-016,M-107,LOW,3.0,15,Current stock covers 15.00 days at average consumption of 110.22 tablets/day; monitor demand and lead time (10 days).,1792634318238
+F-016,M-108,LOW,3.1,22,Current stock covers 22.00 days at average consumption of 76.08 tablets/day; monitor demand and lead time (10 days).,1792659289242
+F-016,M-109,LOW,0.6,21,Current stock covers 21.99 days at average consumption of 28.28 inhalers/day; monitor demand and lead time (7 days).,1792647436541
+F-016,M-110,LOW,3.8,22,Current stock covers 22.02 days at average consumption of 14.44 vials/day; monitor demand and lead time (5 days).,1792633222231
+F-016,M-111,LOW,3.2,41,Current stock covers 41.96 days at average consumption of 11.51 ampoules/day; monitor demand and lead time (5 days).,1792713990341
+F-016,M-112,LOW,2.1,42,Current stock covers 42.00 days at average consumption of 58.10 vials/day; monitor demand and lead time (7 days).,1792640680392
+F-016,M-113,MEDIUM,5.9,11,Current stock covers 11.00 days at average consumption of 131.09 bottles/day; monitor demand and lead time (5 days).,1792642608179
+F-016,M-114,LOW,3.7,24,Current stock covers 24.00 days at average consumption of 123.04 bottles/day; monitor demand and lead time (5 days).,1792631854942
+F-016,M-115,LOW,2.7,30,Current stock covers 30.00 days at average consumption of 340.41 tablets/day; monitor demand and lead time (10 days).,1792646423618
+F-016,M-116,MEDIUM,5.6,10,Current stock covers 10.99 days at average consumption of 75.68 tablets/day; monitor demand and lead time (14 days).,1792648874685
+F-016,M-117,CRITICAL,9.5,3,Coverage is 3.00 days at average consumption of 56.94 tablets/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 228 tablets.,1792698135745
+F-016,M-118,MEDIUM,4.5,8,Current stock covers 8.01 days at average consumption of 9.61 bottles/day; monitor demand and lead time (10 days).,1792651719429
+F-016,M-119,MEDIUM,6.3,11,Current stock covers 11.00 days at average consumption of 130.11 pairs/day; monitor demand and lead time (5 days).,1792688799652
+F-016,M-120,MEDIUM,4.8,8,Current stock covers 8.00 days at average consumption of 123.62 units/day; monitor demand and lead time (5 days).,1792642175526
+F-016,M-121,LOW,0.8,15,Current stock covers 15.00 days at average consumption of 204.88 units/day; monitor demand and lead time (5 days).,1792646138607
+F-016,M-122,LOW,1.6,30,Current stock covers 30.02 days at average consumption of 17.22 kits/day; monitor demand and lead time (10 days).,1792718857329
+F-016,M-123,MEDIUM,6.2,11,Current stock covers 11.02 days at average consumption of 8.17 kits/day; monitor demand and lead time (14 days).,1792707832455
+F-016,M-124,MEDIUM,6.0,7,Current stock covers 7.98 days at average consumption of 9.90 kits/day; monitor demand and lead time (10 days).,1792723520529
+F-016,M-125,MEDIUM,6.1,11,Current stock covers 11.00 days at average consumption of 16.27 bottles/day; monitor demand and lead time (10 days).,1792662396289
+F-016,M-126,CRITICAL,9.5,1,Coverage is 1.99 days at average consumption of 28.20 bottles/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 142 bottles.,1792629013513
+F-016,M-127,LOW,3.8,42,Current stock covers 42.03 days at average consumption of 8.66 bottles/day; monitor demand and lead time (14 days).,1792703699327
+F-016,M-128,MEDIUM,6.0,8,Current stock covers 8.01 days at average consumption of 76.32 bottles/day; monitor demand and lead time (5 days).,1792636809936
+F-016,M-129,HIGH,8.3,4,Coverage is 4.01 days at average consumption of 16.72 kits/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 51 kits.,1792685197417
+F-016,M-130,MEDIUM,6.2,11,Current stock covers 11.02 days at average consumption of 9.80 kits/day; monitor demand and lead time (7 days).,1792651202703
+F-017,M-101,CRITICAL,9.8,2,Coverage is 2.00 days at average consumption of 68.62 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 344 capsules.,1792661111373
+F-017,M-102,LOW,1.9,30,Current stock covers 30.00 days at average consumption of 145.28 tablets/day; monitor demand and lead time (3 days).,1792629754450
+F-017,M-103,LOW,2.7,14,Current stock covers 14.99 days at average consumption of 25.82 sachets/day; monitor demand and lead time (5 days).,1792714712008
+F-017,M-104,LOW,1.4,15,Current stock covers 15.01 days at average consumption of 21.12 tablets/day; monitor demand and lead time (7 days).,1792674420100
+F-017,M-105,LOW,3.9,14,Current stock covers 14.98 days at average consumption of 23.03 tablets/day; monitor demand and lead time (5 days).,1792666967637
+F-017,M-106,CRITICAL,9.8,3,Coverage is 3.00 days at average consumption of 63.41 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 254 tablets.,1792706966556
+F-017,M-107,CRITICAL,9.6,3,Coverage is 3.02 days at average consumption of 27.85 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 111 tablets.,1792636781544
+F-017,M-108,MEDIUM,5.6,8,Current stock covers 8.02 days at average consumption of 20.96 tablets/day; monitor demand and lead time (10 days).,1792645300160
+F-017,M-109,HIGH,8.7,4,Coverage is 4.05 days at average consumption of 10.63 inhalers/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 32 inhalers.,1792631010515
+F-017,M-110,HIGH,8.0,3,Coverage is 3.96 days at average consumption of 5.55 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 17 vials.,1792722960618
+F-017,M-111,MEDIUM,4.3,11,Current stock covers 11.00 days at average consumption of 5.00 ampoules/day; monitor demand and lead time (5 days).,1792724167706
+F-017,M-112,LOW,1.0,22,Current stock covers 22.02 days at average consumption of 17.80 vials/day; monitor demand and lead time (7 days).,1792680064767
+F-017,M-113,LOW,3.6,15,Current stock covers 15.01 days at average consumption of 39.97 bottles/day; monitor demand and lead time (5 days).,1792682759256
+F-017,M-114,MEDIUM,6.0,7,Current stock covers 7.99 days at average consumption of 54.55 bottles/day; monitor demand and lead time (5 days).,1792685687969
+F-017,M-115,LOW,3.8,30,Current stock covers 30.00 days at average consumption of 75.17 tablets/day; monitor demand and lead time (10 days).,1792703307946
+F-017,M-116,LOW,2.5,22,Current stock covers 22.01 days at average consumption of 23.94 tablets/day; monitor demand and lead time (14 days).,1792688417751
+F-017,M-117,MEDIUM,6.1,10,Current stock covers 10.99 days at average consumption of 21.30 tablets/day; monitor demand and lead time (7 days).,1792637803692
+F-017,M-118,CRITICAL,9.8,1,Coverage is 1.95 days at average consumption of 4.10 bottles/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 21 bottles.,1792652650677
+F-017,M-119,LOW,2.5,29,Current stock covers 29.99 days at average consumption of 32.04 pairs/day; monitor demand and lead time (5 days).,1792668833933
+F-017,M-120,LOW,2.0,14,Current stock covers 14.99 days at average consumption of 42.36 units/day; monitor demand and lead time (5 days).,1792677151420
+F-017,M-121,MEDIUM,5.6,11,Current stock covers 11.00 days at average consumption of 83.16 units/day; monitor demand and lead time (5 days).,1792655710314
+F-017,M-122,LOW,0.8,14,Current stock covers 14.99 days at average consumption of 5.87 kits/day; monitor demand and lead time (10 days).,1792636306578
+F-017,M-123,MEDIUM,4.2,11,Current stock covers 11.11 days at average consumption of 3.60 kits/day; monitor demand and lead time (14 days).,1792724252185
+F-017,M-124,MEDIUM,5.8,11,Current stock covers 11.07 days at average consumption of 4.97 kits/day; monitor demand and lead time (10 days).,1792683822597
+F-017,M-125,LOW,3.5,21,Current stock covers 21.96 days at average consumption of 6.01 bottles/day; monitor demand and lead time (10 days).,1792704408608
+F-017,M-126,HIGH,8.9,5,Coverage is 5.50 days at average consumption of 11.27 bottles/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 17 bottles.,1792659295540
+F-017,M-127,LOW,1.0,15,Current stock covers 15.12 days at average consumption of 3.44 bottles/day; monitor demand and lead time (14 days).,1792723326327
+F-017,M-128,HIGH,7.0,5,Coverage is 5.49 days at average consumption of 23.67 bottles/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 36 bottles.,1792671443376
+F-017,M-129,LOW,1.5,15,Current stock covers 15.06 days at average consumption of 5.38 kits/day; monitor demand and lead time (7 days).,1792626791116
+F-017,M-130,MEDIUM,5.7,7,Current stock covers 7.96 days at average consumption of 3.77 kits/day; monitor demand and lead time (7 days).,1792677642603
+F-018,M-101,HIGH,8.5,4,Coverage is 4.21 days at average consumption of 31.12 capsules/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 87 capsules.,1792636303346
+F-018,M-102,LOW,1.4,15,Current stock covers 15.00 days at average consumption of 76.33 tablets/day; monitor demand and lead time (3 days).,1792669740135
+F-018,M-103,CRITICAL,9.4,3,Coverage is 3.04 days at average consumption of 9.87 sachets/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 40 sachets.,1792667716420
+F-018,M-104,MEDIUM,6.6,8,Current stock covers 8.04 days at average consumption of 11.57 tablets/day; monitor demand and lead time (7 days).,1792637670917
+F-018,M-105,MEDIUM,5.3,10,Current stock covers 10.98 days at average consumption of 10.47 tablets/day; monitor demand and lead time (5 days).,1792684311487
+F-018,M-106,MEDIUM,4.3,11,Current stock covers 11.00 days at average consumption of 34.28 tablets/day; monitor demand and lead time (10 days).,1792709880159
+F-018,M-107,CRITICAL,9.4,3,Coverage is 3.01 days at average consumption of 13.27 tablets/day; replenishment lead time is 10 days. Estimated 7-day stock gap: 53 tablets.,1792641637170
+F-018,M-108,LOW,3.5,30,Current stock covers 30.00 days at average consumption of 8.50 tablets/day; monitor demand and lead time (10 days).,1792627852134
+F-018,M-109,MEDIUM,6.0,7,Current stock covers 7.91 days at average consumption of 4.93 inhalers/day; monitor demand and lead time (7 days).,1792706947569
+F-018,M-110,CRITICAL,9.1,2,Coverage is 2.40 days at average consumption of 2.08 vials/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 10 vials.,1792705554122
+F-018,M-111,LOW,1.3,14,Current stock covers 14.80 days at average consumption of 1.96 ampoules/day; monitor demand and lead time (5 days).,1792724863433
+F-018,M-112,CRITICAL,9.8,3,Coverage is 3.34 days at average consumption of 7.78 vials/day; replenishment lead time is 7 days. Estimated 7-day stock gap: 29 vials.,1792698058640
+F-018,M-113,MEDIUM,5.2,7,Current stock covers 7.99 days at average consumption of 15.26 bottles/day; monitor demand and lead time (5 days).,1792726679952
+F-018,M-114,LOW,0.9,14,Current stock covers 14.99 days at average consumption of 27.48 bottles/day; monitor demand and lead time (5 days).,1792632530363
+F-018,M-115,LOW,0.7,15,Current stock covers 15.01 days at average consumption of 50.90 tablets/day; monitor demand and lead time (10 days).,1792715433180
+F-018,M-116,LOW,3.5,21,Current stock covers 21.97 days at average consumption of 10.97 tablets/day; monitor demand and lead time (14 days).,1792700591746
+F-018,M-117,LOW,0.6,22,Current stock covers 22.00 days at average consumption of 9.50 tablets/day; monitor demand and lead time (7 days).,1792724043473
+F-018,M-118,MEDIUM,6.4,8,Current stock covers 8.13 days at average consumption of 2.09 bottles/day; monitor demand and lead time (10 days).,1792727751899
+F-018,M-119,LOW,2.5,14,Current stock covers 14.98 days at average consumption of 19.22 pairs/day; monitor demand and lead time (5 days).,1792645659611
+F-018,M-120,LOW,2.4,30,Current stock covers 30.00 days at average consumption of 22.77 units/day; monitor demand and lead time (5 days).,1792665847852
+F-018,M-121,CRITICAL,9.6,3,Coverage is 3.00 days at average consumption of 31.38 units/day; replenishment lead time is 5 days. Estimated 7-day stock gap: 126 units.,1792711222893
+F-018,M-122,MEDIUM,4.4,10,Current stock covers 10.91 days at average consumption of 2.20 kits/day; monitor demand and lead time (10 days).,1792701064515
+F-018,M-123,HIGH,7.6,3,Coverage is 3.93 days at average consumption of 1.78 kits/day; replenishment lead time is 14 days. Estimated 7-day stock gap: 6 kits.,1792630998141
+F-018,M-124,LOW,1.3,22,Current stock covers 22.05 days at average consumption of 1.95 kits/day; monitor demand and lead time (10 days).,1792668419324
+F-018,M-125,MEDIUM,4.7,8,Current stock covers 8.02 days at average consumption of 2.12 bottles/day; monitor demand and lead time (10 days).,1792629880334
+F-018,M-126,MEDIUM,5.9,10,Current stock covers 10.90 days at average consumption of 3.76 bottles/day; monitor demand and lead time (7 days).,1792660927028
+F-018,M-127,MEDIUM,5.0,11,Current stock covers 11.02 days at average consumption of 1.27 bottles/day; monitor demand and lead time (14 days).,1792645132760
+F-018,M-128,LOW,3.4,15,Current stock covers 15.02 days at average consumption of 11.45 bottles/day; monitor demand and lead time (5 days).,1792702096140
+F-018,M-129,MEDIUM,6.4,7,Current stock covers 7.98 days at average consumption of 2.38 kits/day; monitor demand and lead time (7 days).,1792633614106
+F-018,M-130,LOW,2.3,30,Current stock covers 30.30 days at average consumption of 1.32 kits/day; monitor demand and lead time (7 days).,1792677648165

@@ -1,0 +1,32 @@
+{
+  "name": "arogyagrid-backend",
+  "version": "1.0.0",
+  "description": "Full-Stack Node.js Express & MongoDB Atlas Backend for ArogyaGrid",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node seedCsv.js",
+    "import-csv": "node seedCsv.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arogyagrid",
+    "express",
+    "mongodb",
+    "healthcare"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.1",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

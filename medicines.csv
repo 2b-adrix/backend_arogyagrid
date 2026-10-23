@@ -1,0 +1,31 @@
+﻿id,name,category,unit,criticalityLevel,reorderLevel,leadTimeDays
+M-101,Amoxicillin 500mg,Antibiotic,capsule,CRITICAL,200,7
+M-102,Paracetamol 500mg,Analgesic,tablet,HIGH,500,3
+M-103,ORS Packets,Rehydration,sachet,CRITICAL,300,5
+M-104,Cefixime 200mg,Antibiotic,tablet,HIGH,150,7
+M-105,Azithromycin 500mg,Antibiotic,tablet,HIGH,120,5
+M-106,Metformin 500mg,Antidiabetic,tablet,HIGH,300,10
+M-107,Amlodipine 5mg,Antihypertensive,tablet,HIGH,200,10
+M-108,Losartan 50mg,Antihypertensive,tablet,MEDIUM,150,10
+M-109,Salbutamol Inhaler,Respiratory,inhaler,HIGH,40,7
+M-110,Regular Insulin 100 IU/ml,Antidiabetic,vial,CRITICAL,35,5
+M-111,Oxytocin 10 IU Injection,Maternal Health,ampoule,CRITICAL,40,5
+M-112,Ceftriaxone 1g Injection,Antibiotic,vial,CRITICAL,100,7
+M-113,Ringer Lactate 500ml,IV Fluid,bottle,HIGH,180,5
+M-114,Normal Saline 0.9% 500ml,IV Fluid,bottle,HIGH,200,5
+M-115,Iron Folic Acid,Supplement,tablet,HIGH,500,10
+M-116,Albendazole 400mg,Antiparasitic,tablet,MEDIUM,150,14
+M-117,Zinc Dispersible 20mg,Supplement,tablet,HIGH,180,7
+M-118,Povidone-Iodine 10%,Antiseptic,bottle,MEDIUM,30,10
+M-119,Surgical Gloves,Consumable,pair,HIGH,300,5
+M-120,Syringe 5ml,Consumable,unit,HIGH,350,5
+M-121,Surgical Mask,PPE,unit,MEDIUM,500,5
+M-122,Malaria Rapid Test Kit,Diagnostic,kit,HIGH,50,10
+M-123,HIV Screening Test Kit,Diagnostic,kit,CRITICAL,30,14
+M-124,Urine Pregnancy Test Kit,Diagnostic,kit,MEDIUM,40,10
+M-125,Chlorhexidine Solution,Antiseptic,bottle,MEDIUM,40,10
+M-126,Amoxicillin Pediatric Suspension,Antibiotic,bottle,HIGH,80,7
+M-127,Vitamin A Solution,Supplement,bottle,MEDIUM,25,14
+M-128,Dextrose 5% 500ml,IV Fluid,bottle,HIGH,120,5
+M-129,PPE Kit,PPE,kit,MEDIUM,40,7
+M-130,Rapid Diagnostic Dengue Kit,Diagnostic,kit,MEDIUM,30,7
