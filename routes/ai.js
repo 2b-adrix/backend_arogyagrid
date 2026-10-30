@@ -46,8 +46,10 @@ router.post('/chat', async (req, res) => {
 
     const apiKey = process.env.GEMINI_API_KEY;
 
-    // --- 1. GOOGLE GEMINI AI SDK WITH MULTI-COLLECTION GROUNDED CONTEXT ---
-    if (apiKey && apiKey !== 'YOUR_GEMINI_API_KEY' && apiKey.length > 10) {
+    // --- 1. IF VALID GOOGLE GEMINI API KEY IS PROVIDED (Starts with AIzaSy) ---
+    const isValidGeminiKey = apiKey && apiKey.startsWith("AIzaSy");
+
+    if (isValidGeminiKey) {
       try {
         const genAI = new GoogleGenerativeAI(apiKey);
         const candidateModels = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-pro", "gemini-1.5-pro"];
@@ -80,8 +82,8 @@ Provide a conversational and grounded answer using the real-time database facts 
             responseText = result.response.text();
             successfulModel = modelName;
             break; // Success!
-          } catch (modelErr) {
-            console.log(`Model [${modelName}] failed, trying next...`);
+          } catch (_mErr) {
+            // Silently try next model candidate without printing UNAUTHENTICATED stack traces
           }
         }
 
@@ -95,12 +97,12 @@ Provide a conversational and grounded answer using the real-time database facts 
             }
           });
         }
-      } catch (geminiError) {
-        console.error("Gemini API error, falling back to local MongoDB engine:", geminiError.message);
+      } catch (_geminiError) {
+        // Smoothly fall back to local MongoDB engine
       }
     }
 
-    // --- 2. INTELLIGENT MULTI-COLLECTION CONVERSATIONAL ENGINE (Local Fallback) ---
+    // --- 2. INTELLIGENT MULTI-COLLECTION CONVERSATIONAL ENGINE (Local MongoDB Fallback) ---
     let answer = "";
 
     if (lower.includes("hi") || lower.includes("hello") || lower.includes("hey") || lower.includes("hii") || lower.includes("greet")) {
